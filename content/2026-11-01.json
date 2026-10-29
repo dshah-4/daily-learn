@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-01",
+  "cards": [
+    {
+      "id": "2026-11-01-1",
+      "topic": "economics",
+      "title": "Comparative advantage: why trade isn't zero-sum",
+      "body": "In 1817, David Ricardo showed something counterintuitive: two countries can both gain from trade even if one is better at producing everything. What matters isn't absolute advantage but comparative advantage, meaning who gives up less to produce each good.\n\nThe key concept is opportunity cost. If one country sacrifices less wine for every unit of cloth it makes, it should specialize in cloth, and the other should make wine, even if it's less efficient at both. Specializing and trading raises total output, so both sides can consume more than they could alone.\n\nThis is why most economists agree broad tariffs reduce overall welfare, even when specific industries benefit. It also explains everyday life: a brilliant analyst still hires an assistant, because the analyst's hour is worth more spent on analysis.",
+      "example": "Ricardo's numbers: Portugal needs the labour of 80 workers for a unit of wine and 90 for cloth; England needs 120 and 100. Portugal is better at both, but its edge is biggest in wine. So Portugal makes wine, England makes cloth, and trade leaves both better off.",
+      "takeaway": "Specialize in what you give up least to do, then trade."
+    },
+    {
+      "id": "2026-11-01-2",
+      "topic": "weightlifting",
+      "title": "Reps in reserve: train hard without guessing",
+      "body": "How hard was that set? Reps in reserve (RIR) answers with a number: how many more good reps you could have done before failure. Its sibling, RPE (rating of perceived exertion), uses a 10-point scale where RPE 10 means nothing left, RPE 9 means one rep left and RPE 8 means two.\n\nHypertrophy research suggests sets taken within roughly 0 to 3 reps of failure stimulate growth effectively, while stopping far short gives less return. Going to true failure on every set, though, piles up fatigue, especially on big lifts like squats and deadlifts.\n\nA practical rule: compound lifts at 1 to 3 RIR, isolation exercises closer to 0 to 1. You'll misjudge at first; most newer lifters underestimate how many reps they really have left.",
+      "example": "You squat 100 kg for 8 reps and feel you could have ground out exactly 2 more. That's 2 RIR, or RPE 8. Next session, if 8 reps at 100 kg feels like RPE 7, it's time to add load.",
+      "takeaway": "Most growth comes from sets ending 0 to 3 reps short of failure."
+    },
+    {
+      "id": "2026-11-01-3",
+      "topic": "philosophy",
+      "title": "Aristotle: you become what you practise",
+      "body": "In the Nicomachean Ethics, Aristotle argues that virtues aren't innate. We aren't born brave or generous; we become brave by doing brave acts and generous by giving, just as we become builders by building and lyre players by playing the lyre. Character is a skill, trained through repetition until the right action feels natural and even pleasant.\n\nHe adds that virtue is usually a mean between extremes: courage sits between cowardice and recklessness, generosity between stinginess and extravagance.\n\nOne footnote: the famous line that we are what we repeatedly do, and excellence is not an act but a habit, isn't actually Aristotle's. It's the historian Will Durant summarizing him in 1926. The idea is Aristotle's; the polished phrasing is Durant's.",
+      "example": "Want to be someone who speaks up in class or in interviews? Aristotle would say don't wait to feel confident. Ask one question in every lecture this week. The feeling follows the action, not the other way around.",
+      "takeaway": "Character is built like a skill: by repeating the actions you want to own."
+    },
+    {
+      "id": "2026-11-01-4",
+      "topic": "guitar",
+      "title": "The minor pentatonic: your first solo map",
+      "body": "Five notes, almost no wrong turns. The minor pentatonic scale drops the two notes of the natural minor scale that tend to clash, leaving a set that sounds good over nearly any blues, rock or funk progression in that key. In A minor, the notes are A, C, D, E and G.\n\nThe first position, or box 1, sits at the 5th fret, with two notes per string. Your index finger covers the 5th fret throughout, while your ring finger and pinky handle the 7th and 8th.\n\nOnce you can play it up and down cleanly, stop running the scale and start making phrases: play three notes, pause, repeat with a small change. Land on the root note A at the end of phrases, and try a bend on the G string from the 7th fret.",
+      "example": "Box 1 in A, low E string to high E: frets 5–8, 5–7, 5–7, 5–7, 5–8, 5–8. Play it with a metronome at 70 bpm, one note per click, then improvise over an A minor blues backing track for five minutes.",
+      "takeaway": "Five notes, one box at the 5th fret, and you can solo over the blues."
+    },
+    {
+      "id": "2026-11-01-5",
+      "topic": "canadian-finance",
+      "icon": "maple",
+      "title": "Credit scores: what really moves yours",
+      "body": "In Canada, Equifax and TransUnion produce credit scores on a 300 to 900 scale. Lenders use them for credit cards, car loans, apartment applications and eventually mortgages, so the habits you build as a student follow you for years.\n\nThe two biggest factors are payment history and credit utilization. Never miss a payment; even paying the minimum on time protects your record. Utilization is the balance reported on your statement divided by your limit. Keeping it under 30% is the common advice, and under 10% is better.\n\nLength of history matters too, so keep your oldest no-fee card open. Several new credit applications in a short period can ding your score, but checking your own score is a soft inquiry and never hurts it.",
+      "example": "You have a $2,000 limit and spend $1,200 a month. If the statement shows $1,200, utilization is 60%. Pay $1,000 a few days before the statement date and it reports $200, or 10%, even though you spent the same amount.",
+      "takeaway": "Pay on time and keep the reported balance under 30% of your limit."
+    },
+    {
+      "id": "2026-11-01-6",
+      "topic": "book",
+      "title": "Thinking, Fast and Slow by Daniel Kahneman",
+      "body": "Daniel Kahneman won the 2002 Nobel Prize in economics for work, much of it with Amos Tversky, showing that human judgment departs from rational models in predictable ways. This 2011 book is the guided tour.\n\nIts frame is two systems. System 1 is fast, automatic and intuitive; System 2 is slow, effortful and deliberate. Many errors happen when System 1 answers a hard question with an easier substitute and System 2 doesn't bother to check. From there come anchoring, availability, loss aversion, overconfidence and the planning fallacy.\n\nIt's essential for an investor, because markets are where these biases cost real money. One caution: some studies it cites, especially on priming, have failed to replicate, as Kahneman himself later acknowledged. Read those chapters skeptically.",
+      "example": "Read Part 1, then jump to Part 4, Choices, for prospect theory and loss aversion. Afterward, pick a stock you own or follow and ask: what anchor am I using? Often it's simply the price I paid.",
+      "takeaway": "Your intuition is fast and confident, which is exactly why it needs checking."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Ana can write a report in 2 hours or build a slide deck in 1 hour. Ben takes 6 hours for a report and 2 hours for a deck. Who should build the decks?",
+      "options": ["Ana, because she's faster at decks", "Ben, because he gives up less to build one", "Neither; they should split everything evenly", "Ana, because she's faster at everything"],
+      "answer": 1,
+      "explanation": "A deck costs Ana half a report but costs Ben only a third of a report, so Ben has the comparative advantage in decks."
+    },
+    {
+      "question": "You finish a set and could have done exactly 3 more reps. What RPE was it?",
+      "options": ["RPE 3", "RPE 9", "RPE 7", "RPE 10"],
+      "answer": 2,
+      "explanation": "RPE = 10 minus reps in reserve, so 3 RIR is RPE 7."
+    },
+    {
+      "question": "According to Aristotle, how does a person become brave?",
+      "options": ["By being born with a courageous temperament", "By studying the theory of courage", "By avoiding all fear", "By repeatedly doing brave acts until they become natural"],
+      "answer": 3,
+      "explanation": "For Aristotle, virtues are habits formed by practice, like any skill."
+    },
+    {
+      "question": "Which notes make up the A minor pentatonic scale?",
+      "options": ["A, C, D, E, G", "A, B, C, D, E", "A, C#, E, F#, G", "A, B, D, E, F"],
+      "answer": 0,
+      "explanation": "A minor pentatonic is the root, minor third, fourth, fifth and minor seventh: A, C, D, E, G."
+    },
+    {
+      "question": "You have a $3,000 limit and usually spend $1,500 a month. What's the simplest way to report lower utilization?",
+      "options": ["Open three new cards at once", "Only pay the minimum", "Close your oldest card", "Pay most of the balance before the statement date"],
+      "answer": 3,
+      "explanation": "Utilization is based on the statement balance, so paying before the statement closes lowers what's reported."
+    },
+    {
+      "question": "Review: Which formula gives free cash flow?",
+      "options": ["Net income + depreciation", "Operating cash flow − capital expenditures", "Revenue − operating expenses", "EBITDA − interest"],
+      "answer": 1,
+      "explanation": "FCF is the cash from operations left after paying for capex. From Thursday's FCF yield card.",
+      "review": true,
+      "reviewOf": "2026-10-29-1"
+    }
+  ]
+}

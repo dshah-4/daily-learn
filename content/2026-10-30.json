@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-30",
+  "cards": [
+    {
+      "id": "2026-10-30-1",
+      "topic": "economics",
+      "title": "The Taylor rule: a central banker's cheat sheet",
+      "body": "In 1993, Stanford economist John Taylor proposed a simple formula that described how the Federal Reserve had actually been setting rates. The policy rate equals the neutral real rate plus current inflation, plus half the gap between inflation and target, plus half the output gap.\n\nThe logic: when inflation runs above target, raise rates by more than inflation rose, so real rates climb and demand cools. When the economy runs below capacity, ease off. No central bank follows the rule mechanically, and the neutral rate can't be observed directly, so estimates vary widely.\n\nStill, markets and analysts use it as a benchmark to judge whether policy is tight or loose. For an investor, the gap between the actual policy rate and a Taylor-rule estimate is a quick read on where rates might head.",
+      "example": "Assume a 1% neutral real rate, 3% inflation, a 2% target and a zero output gap. Rate = 1 + 3 + 0.5 × (3 − 2) + 0.5 × 0 = 4.5%. If the central bank is sitting at 3.5%, policy looks loose by this yardstick.",
+      "takeaway": "When inflation rises, the Taylor rule says rates should rise even more."
+    },
+    {
+      "id": "2026-10-30-2",
+      "topic": "weightlifting",
+      "title": "Double progression: the simplest way to keep growing",
+      "body": "Muscle and strength adapt to the demands you place on them, so the demand has to keep rising. That's progressive overload. The trick is doing it without guesswork, and double progression is the cleanest system.\n\nPick a rep range, say 8 to 12. Use a weight you can lift for at least 8 good reps on every set. Each session, try to add reps. When you hit the top of the range on all sets with solid form, increase the load by the smallest jump available and drop back toward 8. Repeat.\n\nIt works because it progresses two variables, reps and load, so you're rarely stuck. Log every set in a notebook or app. If you can't see last week's numbers, you can't beat them, and many stalled lifters simply aren't tracking.",
+      "example": "Dumbbell bench, 3 sets of 8 to 12 with 25 kg dumbbells. Week 1: 10, 9, 8. Week 3: 12, 12, 12. Week 4: move to 27.5 kg and start again at around 8 reps per set.",
+      "takeaway": "Add reps until you top out the range, then add weight."
+    },
+    {
+      "id": "2026-10-30-3",
+      "topic": "guitar",
+      "title": "CAGED: five shapes that unlock the neck",
+      "body": "Every open major chord you know, C, A, G, E and D, is really a movable shape. The CAGED system shows that these five shapes link together like puzzle pieces along the fretboard, each sharing notes with the next.\n\nTake any chord and you can play it in five places, moving up the neck through the shapes in C-A-G-E-D order, then looping back around. The root note is your anchor: find the root, and you know which shape fits around it.\n\nWhy it matters: instead of being stuck in one position, you can play the same chord higher for a brighter voicing, find solo notes near any chord, and finally see the neck as one connected map instead of disconnected boxes. Learn the shapes slowly, one neighbouring pair at a time.",
+      "example": "C major five ways: the open C shape; the A shape barred at the 3rd fret; the G shape around frets 5 to 8; the E shape barred at the 8th fret; the D shape with its root on the 4th string, 10th fret. Play them in order up the neck.",
+      "takeaway": "Five open chord shapes are really one connected map of the neck."
+    },
+    {
+      "id": "2026-10-30-4",
+      "topic": "book",
+      "title": "The Most Important Thing by Howard Marks",
+      "body": "Howard Marks co-founded Oaktree Capital, one of the world's largest credit investors, and his client memos are so respected that Warren Buffett has said they're the first thing he opens when they arrive. This 2011 book distils those memos into short chapters, each on one thing Marks calls the most important.\n\nThe core idea is second-level thinking. First-level thinkers say a company is great, so buy. Second-level thinkers ask what the consensus already expects, what's priced in, and how they could be different and right. Marks also writes brilliantly about risk as the chance of permanent loss rather than volatility, and about knowing where we stand in the cycle.\n\nFor anyone aiming at the buy side, it's the closest thing to a mindset manual.",
+      "example": "Start with Chapter 1, Second-Level Thinking. Then read a recent memo, free on Oaktree's website, and try to spot the same ideas applied to today's market.",
+      "takeaway": "Being right isn't enough; you have to be right when the consensus is wrong."
+    },
+    {
+      "id": "2026-10-30-5",
+      "topic": "canadian-finance",
+      "icon": "maple",
+      "title": "TFSA or RRSP first? Follow your tax bracket",
+      "body": "Both accounts shelter investments from tax, but they work in opposite directions. RRSP contributions are deducted from your income now and taxed when you withdraw. TFSA contributions come from after-tax money, but growth and withdrawals are tax-free.\n\nSo the real question is whether your tax rate is higher now or later. As a student with modest income, your marginal rate is low, so an RRSP deduction is worth little today and a TFSA usually makes more sense. Your TFSA room started accumulating the year you turned 18, and unused room carries forward.\n\nRRSP room is 18% of the previous year's earned income, up to an annual maximum, and it carries forward too. You can even contribute now and save the deduction for a future higher-income year.",
+      "example": "If you turned 18 in 2024, you gained $7,000 of TFSA room that year and another $7,000 in 2025. A $1,000 RRSP deduction might save a student $200 or less in tax, but over $400 for someone earning $120,000 in Ontario.",
+      "takeaway": "Low income now? TFSA first; save RRSP deductions for higher-earning years."
+    },
+    {
+      "id": "2026-10-30-6",
+      "topic": "investing",
+      "icon": "target",
+      "title": "Economic moats: why some profits survive",
+      "body": "In a competitive market, high returns attract rivals until profits fall back to normal. A moat is whatever stops that from happening. Warren Buffett popularized the term, and Morningstar later built a framework around five main sources: network effects, switching costs, intangible assets like brands, patents and licences, cost advantages, and efficient scale.\n\nThe evidence for a moat isn't a great story; it's numbers. Look for return on invested capital that stays well above the cost of capital for many years, through good and bad parts of the cycle. If ROIC is high but sliding fast, the moat may be draining.\n\nThe best investments often combine a wide moat with a long runway to reinvest at those high returns. That's where compounding really happens.",
+      "example": "Canada's two Class I railways, CN and CPKC, enjoy efficient scale: nobody can realistically build a third transcontinental network, so their strong margins have persisted for years despite being in a capital-heavy industry.",
+      "takeaway": "A moat shows up as returns on capital that stay high for years."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Using the Taylor rule with a 1% neutral real rate, 4% inflation, a 2% target and a zero output gap, what should the policy rate be?",
+      "options": ["4%", "5%", "7%", "6%"],
+      "answer": 3,
+      "explanation": "1 + 4 + 0.5 × (4 − 2) + 0 = 6%."
+    },
+    {
+      "question": "Your program says 3 × 8–12. You just hit 12, 12, 12. What does double progression tell you to do next?",
+      "options": ["Increase the weight and drop back toward 8 reps", "Add a fourth set at the same weight", "Keep going until you reach 15 reps", "Take a deload week"],
+      "answer": 0,
+      "explanation": "Topping out the range on every set is the signal to add the smallest load jump and rebuild the reps."
+    },
+    {
+      "question": "In the CAGED system, what helps you know which shape to use at a given spot on the neck?",
+      "options": ["The open strings", "The highest fret you can reach", "The location of the root note", "The chord's fifth"],
+      "answer": 2,
+      "explanation": "Each shape is built around a root note; find the root and the matching shape fits around it."
+    },
+    {
+      "question": "What is Howard Marks's second-level thinking?",
+      "options": ["Reading a company's financial statements twice", "Asking what the consensus expects and how your view differs", "Buying only after a stock has fallen twice", "Checking your thesis with a second analyst"],
+      "answer": 1,
+      "explanation": "Outperforming requires a view that's different from the consensus and more accurate, not just a good company."
+    },
+    {
+      "question": "Why is a TFSA often a better first choice than an RRSP for a low-income student?",
+      "options": ["TFSA contributions are tax-deductible", "RRSPs can't be opened before age 25", "An RRSP deduction is worth little at a low marginal tax rate", "TFSA room disappears if not used each year"],
+      "answer": 2,
+      "explanation": "The RRSP's value comes from the deduction, which saves more tax at higher marginal rates later in life."
+    },
+    {
+      "question": "Which is the strongest evidence that a company has an economic moat?",
+      "options": ["A fast-growing share price", "A well-known brand name", "Return on invested capital above the cost of capital for many years", "A large market share this year"],
+      "answer": 2,
+      "explanation": "A moat is visible in persistently high returns that competition hasn't eroded, not in a story or a single year."
+    }
+  ]
+}

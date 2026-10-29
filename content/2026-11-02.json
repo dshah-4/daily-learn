@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-02",
+  "cards": [
+    {
+      "id": "2026-11-02-1",
+      "topic": "investing",
+      "icon": "book",
+      "title": "Reading a 10-K: where to actually look",
+      "body": "Annual reports are long, and nobody good reads them front to back. In a U.S. 10-K, a few sections do most of the work. Item 1, Business, explains how the company actually makes money, by segment and customer. Item 1A, Risk Factors, is mostly boilerplate, but new or reworded risks compared with last year are a signal. Item 7, MD&A, is management explaining the numbers: why margins moved, what drove growth, what worries them.\n\nThen read the notes to the financial statements, where revenue recognition, debt terms, leases and segment data live. Many analysts put this year's filing next to last year's and look only for what changed.\n\nCanadian companies file an Annual Information Form and a separate MD&A on SEDAR+, which play the same roles.",
+      "example": "Pull Costco's latest 10-K from the SEC's EDGAR site. Read only Item 1 and Item 7, then write three sentences: how it makes money, what drove growth, and what management flags as a risk. Notice how much of the profit story revolves around membership fees.",
+      "takeaway": "Read Business, Risk Factors, MD&A and the notes, and hunt for what changed."
+    },
+    {
+      "id": "2026-11-02-2",
+      "topic": "running",
+      "title": "Cadence: shorter steps, happier knees",
+      "body": "Cadence is the number of steps you take per minute. The famous figure of 180 comes from coach Jack Daniels counting elite runners at the 1984 Olympics, but those were elites at race pace. There's no magic number for everyone.\n\nWhat research does support: many recreational runners overstride, landing with the foot far ahead of the body, which acts like a brake and loads the knees. Studies have found that increasing cadence by around 5 to 10 percent at the same speed shortens the stride and noticeably reduces loading at the knee and hip.\n\nIf you've had knee niggles or hear your feet slapping the ground, it's worth testing. Make the change gradually and on easy runs; most runners adapt within a few weeks.",
+      "example": "Count your steps for 30 seconds on an easy run and double it. Say you get 160. Set a metronome app to 168, about 5% higher, and match it for a few minutes at a time during easy runs this week.",
+      "takeaway": "If you overstride, raise cadence 5 to 10 percent, not to a magic 180."
+    },
+    {
+      "id": "2026-11-02-3",
+      "topic": "recipe",
+      "title": "40 g Protein Overnight Oats",
+      "body": "A breakfast you make in four minutes the night before. In a jar, combine 1/2 cup rolled oats, 3/4 cup plain Greek yogurt, 1/2 cup milk, half a scoop of vanilla whey or plant protein, 1 tbsp chia seeds, and a pinch of cinnamon and salt. Stir hard so the powder doesn't clump, then refrigerate overnight.\n\nIn the morning, top with a spoonful of peanut butter and a handful of berries or sliced banana. The oats and chia absorb the liquid into a thick, pudding-like texture; add a splash more milk if you like it looser.\n\nMake four jars on Sunday and breakfast is handled until Thursday. Rotate flavours: cocoa powder and banana, or grated apple, cinnamon and walnuts.",
+      "example": "Approximate protein: Greek yogurt 17 g, half scoop of whey 12 g, oats 5 g, milk 4 g, chia 2 g, peanut butter 4 g. Total: about 44 g for roughly 500 calories. Skyr in place of Greek yogurt pushes it even higher.",
+      "takeaway": "Greek yogurt plus a half scoop of protein makes oats a 40 g breakfast."
+    },
+    {
+      "id": "2026-11-02-4",
+      "topic": "chess",
+      "title": "The opposition: winning king and pawn endings",
+      "body": "In king and pawn endgames, kings can never stand next to each other, so they shoulder each other for space. When the two kings face each other on a file with one square between them, the player who just moved holds the opposition, and the player to move must give way.\n\nThis matters because the side with an extra pawn usually needs its king to walk ahead of the pawn and reach key squares. The defender's whole job is to block. Whoever holds the opposition decides who gets through.\n\nA useful rule: with a non-rook pawn, if the attacking king reaches the sixth rank in front of its pawn, it wins no matter whose move it is. Before that, the opposition decides everything, so count carefully before trading into a pawn ending.",
+      "example": "White: king e5, pawn e4. Black: king e7. If Black is to move, Black must step aside, White's king reaches d6 or f6, and White wins. If White is to move, Black holds the opposition and draws.",
+      "takeaway": "When the kings face off, the side not to move holds the opposition."
+    },
+    {
+      "id": "2026-11-02-5",
+      "topic": "music",
+      "icon": "note",
+      "title": "Miles Davis: Kind of Blue",
+      "body": "Recorded in two sessions in 1959, Kind of Blue is widely cited as the best-selling jazz album ever, and it might be the best place to start with jazz at all. It's calm, spacious and immediately listenable, even if you think you don't like jazz.\n\nIts secret is modal jazz. Instead of racing through fast chord changes like bebop, the tunes sit on a single scale, or mode, for long stretches. That gives soloists room to build melodies rather than run patterns. And what soloists: Miles Davis, John Coltrane, Cannonball Adderley and Bill Evans, all in one room.\n\nStart with So What, built on D Dorian; listen for Paul Chambers's bass asking a question and the horns answering with two notes. Then try Blue in Green and All Blues.",
+      "example": "Guitar crossover: D Dorian uses the same notes as C major, just starting on D. Play D–E–F–G–A–B–C–D over a D minor drone and you're in So What territory. Improvise for two minutes using only those notes.",
+      "takeaway": "Modal jazz trades fast chord changes for space to build melodies."
+    },
+    {
+      "id": "2026-11-02-6",
+      "topic": "economics",
+      "icon": "maple",
+      "title": "Why the Bank of Canada targets 2% inflation",
+      "body": "Canada was an inflation-targeting pioneer. In 1991, the Bank of Canada and the federal government agreed on explicit inflation targets, and since the mid-1990s the goal has been 2%, the midpoint of a 1 to 3% control range. The agreement is reviewed every five years.\n\nWhy 2% and not zero? Price indexes tend to overstate true inflation because of quality improvements and substitution. A little inflation also lets real wages adjust without nominal pay cuts, and keeps interest rates high enough that the Bank has room to cut in a recession.\n\nThe main tool is the overnight policy rate, announced eight times a year. Credibility is the real asset: if households and businesses expect 2%, their wage and price decisions tend to keep it there.",
+      "example": "Rule of 70: at 2% inflation, prices double in about 35 years (70 ÷ 2). At 5%, they double in just 14 years, which is why a few years of high inflation feel so painful.",
+      "takeaway": "A credible 2% target anchors expectations, and expectations drive inflation."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Which 10-K section is management's own explanation of the year's results?",
+      "options": ["Item 1, Business", "Item 1A, Risk Factors", "Item 7, MD&A", "The auditor's report"],
+      "answer": 2,
+      "explanation": "Management's Discussion and Analysis is where management explains what drove results and what concerns them."
+    },
+    {
+      "question": "What does raising cadence 5 to 10 percent at the same speed tend to do?",
+      "options": ["Shorten the stride and reduce loading at the knee and hip", "Lengthen the stride and increase speed", "Raise heart rate dramatically", "Nothing measurable"],
+      "answer": 0,
+      "explanation": "More steps at the same speed means shorter steps, less overstriding and less braking load."
+    },
+    {
+      "question": "Which two ingredients provide most of the protein in the overnight oats?",
+      "options": ["Oats and chia", "Milk and peanut butter", "Berries and banana", "Greek yogurt and protein powder"],
+      "answer": 3,
+      "explanation": "Greek yogurt (about 17 g) and half a scoop of protein (about 12 g) do the heavy lifting."
+    },
+    {
+      "question": "The kings face each other on a file with one square between them. Who holds the opposition?",
+      "options": ["The player to move", "The player who just moved", "Whoever has more pawns", "Whoever's king is closer to the centre"],
+      "answer": 1,
+      "explanation": "The player to move must give way, so the player who just moved has the opposition."
+    },
+    {
+      "question": "What defines the modal approach on Kind of Blue?",
+      "options": ["Very fast chord changes", "No improvisation at all", "Long stretches on a single scale instead of rapid chord changes", "Using only the blues scale"],
+      "answer": 2,
+      "explanation": "Modal tunes sit on one mode for long stretches, giving soloists room to build melodies."
+    },
+    {
+      "question": "Why does the Bank of Canada aim for 2% inflation rather than 0%?",
+      "options": ["Measured inflation overstates true price changes, and some inflation leaves room to cut rates", "Zero inflation is illegal under Canadian law", "2% maximizes government tax revenue", "The U.S. Federal Reserve requires it"],
+      "answer": 0,
+      "explanation": "Measurement bias, wage flexibility and room for rate cuts all argue for a small positive target."
+    }
+  ]
+}

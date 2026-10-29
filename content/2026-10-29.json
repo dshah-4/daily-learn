@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-29",
+  "cards": [
+    {
+      "id": "2026-10-29-1",
+      "topic": "investing",
+      "icon": "coin",
+      "title": "Free cash flow yield: the honest earnings number",
+      "body": "Net income is an accounting opinion; cash is a fact. Free cash flow (FCF) is operating cash flow minus capital expenditures: the cash a business throws off after paying to keep itself running and growing. Divide FCF by market capitalization and you get FCF yield, the return you'd earn if the company paid out every spare dollar.\n\nBuy-side analysts love it because it cuts through choices that flatter earnings, like aggressive revenue recognition or slow depreciation schedules. It also gives a quick comparison with bonds: a growing business with a 7% FCF yield is a very different proposition from a government bond paying 3% forever.\n\nWatch for distortions. A company can temporarily inflate FCF by starving capex or stretching payments to suppliers, so check whether it holds up over several years.",
+      "example": "A company has a $20B market cap, $2.4B of operating cash flow and $0.9B of capex. FCF = $1.5B, so the FCF yield is 1.5 / 20 = 7.5%. If reported net income were $2.5B, that $1B gap between earnings and cash would be worth digging into.",
+      "takeaway": "Earnings are an opinion; free cash flow is what owners actually get."
+    },
+    {
+      "id": "2026-10-29-2",
+      "topic": "running",
+      "title": "Easy runs should feel almost too easy",
+      "body": "Most recreational runners make the same mistake: they run their easy days too hard and their hard days too easy. Elite endurance athletes do roughly 80% of their training at low intensity, a pattern often called polarized or 80/20 training.\n\nEasy running builds the aerobic engine: more mitochondria, more capillaries around muscle fibres, a stronger heart and better fat use. It does this with little fatigue, so you can stack more volume and still hit your workouts hard. Running every day at a medium-hard effort feels productive, but it leaves you too tired to go truly fast and not rested enough to absorb the work.\n\nThe simplest gauge is the talk test: if you can't speak in full sentences, slow down. Ignore your ego and the pace on your watch.",
+      "example": "If your 5K race pace is 5:00 per km, easy runs typically land around 6:00 to 6:40 per km. This week, set your watch to show time or heart rate instead of pace on easy days, and keep a full conversation possible the whole way.",
+      "takeaway": "Run easy days easy so you can run hard days hard."
+    },
+    {
+      "id": "2026-10-29-3",
+      "topic": "recipe",
+      "icon": "bowl",
+      "title": "Crispy Tofu & Edamame Peanut Bowl",
+      "body": "A weeknight bowl built to hit serious protein without meat. Press a 450 g block of extra-firm tofu for 10 minutes, cube it, toss with 1 tbsp soy sauce and 1 tbsp cornstarch, and bake at 220°C for about 25 minutes, flipping once, until crisp at the edges.\n\nWhile it bakes, cook 1 cup of dry quinoa and warm 1.5 cups of shelled edamame. Whisk the sauce: 3 tbsp peanut butter, 2 tbsp soy sauce, 1 tbsp rice vinegar, 1 tsp sriracha, 1 tsp maple syrup and enough hot water to make it pourable.\n\nBuild two bowls with quinoa, tofu, edamame, shredded cabbage and cucumber, drown it in sauce, and finish with sesame seeds and green onion. It keeps well for two days of lunches.",
+      "example": "Makes 2 servings at roughly 55 g protein each, about 750 calories. Tofu brings the most, edamame adds around 13 g per bowl, and the quinoa another 12 g. Swap in rice noodles if you like, but you'll lose some protein.",
+      "takeaway": "Crispy tofu plus edamame turns a plant bowl into a 50 g protein meal."
+    },
+    {
+      "id": "2026-10-29-4",
+      "topic": "music",
+      "title": "Khruangbin: Con Todo El Mundo",
+      "body": "Khruangbin is a Texas trio that sounds like a road trip through someone else's record collection: Thai funk cassettes, Iranian pop, dub, surf guitar and soul, all slowed into a hypnotic groove. Their 2018 album Con Todo El Mundo is the best entry point.\n\nListen to how much space there is. Laura Lee's bass carries the melody as often as Mark Speer's guitar, and DJ Johnson's drums rarely fill. Speer's playing is a lesson in restraint: clean tone, lots of reverb, and bends and slides borrowed from Middle Eastern scales instead of standard blues licks.\n\nStart with Maria También, then August 10 and Evan Finds the Third Room. If it clicks, follow the thread back to their influences, like compilations of 1960s and 70s Thai funk.",
+      "example": "Put on Maria También with headphones and follow only the bass line for one full listen. Then replay it and follow only the guitar. Notice how rarely they play busy parts at the same time.",
+      "takeaway": "Great grooves are built as much from space as from notes."
+    },
+    {
+      "id": "2026-10-29-5",
+      "topic": "philosophy",
+      "title": "Epictetus and the dichotomy of control",
+      "body": "Epictetus was born a slave around 50 AD and became one of the most influential Stoic teachers. The Enchiridion, a handbook of his teachings, opens with a simple split: some things are up to us, and some are not. Our judgments, intentions and actions are up to us. Our bodies, reputations, possessions and other people's choices are not.\n\nThe Stoic move is to put full effort into the first category and meet the second with calm acceptance. That isn't passivity. It directs energy where it actually changes outcomes, and refuses to let anxiety about uncontrollables crowd out the work itself.\n\nModern cognitive behavioural therapy openly credits this idea: distress often comes less from events themselves than from our judgments about them.",
+      "example": "Recruiting season: you can't control whether a fund calls you back. You can control how many firms you research, how sharp your stock pitch is, and how many alumni you message this week. Measure yourself on those.",
+      "takeaway": "Judge yourself on your inputs, not on outcomes you don't control."
+    },
+    {
+      "id": "2026-10-29-6",
+      "topic": "chess",
+      "title": "Checks, captures, threats: the blunder filter",
+      "body": "Most games below master level are decided by tactics, not deep strategy. The single best habit for cutting blunders is a quick scan before every move: checks, captures and threats, in that order.\n\nFirst, list every check available, to you and to your opponent. Then every capture. Then every threat, meaning a move that attacks something undefended or sets up a fork or mate. Forcing moves come first because they limit the replies, which makes them both the most dangerous and the easiest to calculate.\n\nRun the scan for your opponent's position too. Simply asking what their last move threatens catches most one-move blunders. It feels slow at first, but within a few weeks it becomes automatic, and it usually lifts your rating faster than any amount of opening study.",
+      "example": "You're about to push a pawn. Quick scan: after it, can your opponent capture anything? Yes, your knight on c3 is undefended and their bishop on b4 can take it. Two seconds of checking saves a piece.",
+      "takeaway": "Before every move, scan checks, captures and threats for both sides."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A company has a $10B market cap, $1.2B of operating cash flow and $0.4B of capex. What is its FCF yield?",
+      "options": ["12%", "8%", "4%", "16%"],
+      "answer": 1,
+      "explanation": "FCF = $1.2B − $0.4B = $0.8B, and $0.8B / $10B = 8%."
+    },
+    {
+      "question": "Roughly what share of their training do elite endurance athletes do at low intensity?",
+      "options": ["About 80%", "About 50%", "About 30%", "About 95%"],
+      "answer": 0,
+      "explanation": "The 80/20 pattern: most volume is easy, which allows the hard 20% to be truly hard."
+    },
+    {
+      "question": "What makes the baked tofu crisp at the edges?",
+      "options": ["Boiling it before baking", "Marinating it overnight in water", "Pressing it, coating it in cornstarch and baking at high heat", "Baking it at 150°C for an hour"],
+      "answer": 2,
+      "explanation": "Pressing removes water, cornstarch creates a crust, and 220°C heat browns it quickly."
+    },
+    {
+      "question": "What best describes Khruangbin's sound on Con Todo El Mundo?",
+      "options": ["Dense walls of distorted guitar", "Melodic bass, sparse drums and lots of space", "Synth-heavy electronic production", "Fast, technical drum fills"],
+      "answer": 1,
+      "explanation": "The band leaves room: the bass often carries melody and the drums rarely fill."
+    },
+    {
+      "question": "According to Epictetus, which of these is truly up to us?",
+      "options": ["Our reputation", "Whether we get the job", "Our judgments and actions", "Our health"],
+      "answer": 2,
+      "explanation": "Judgments, intentions and actions are ours; reputation, outcomes and even health depend partly on things outside our control."
+    },
+    {
+      "question": "Why does the blunder filter look at checks and captures first?",
+      "options": ["They're the most common moves in chess", "Opening theory recommends them", "They always win material", "They're forcing, so they limit replies and are easiest to calculate"],
+      "answer": 3,
+      "explanation": "Forcing moves narrow what the other side can do, which makes them both dangerous and calculable."
+    }
+  ]
+}

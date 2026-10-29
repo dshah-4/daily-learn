@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-31",
+  "cards": [
+    {
+      "id": "2026-10-31-1",
+      "topic": "investing",
+      "icon": "scale",
+      "title": "EV/EBITDA: compare businesses, not balance sheets",
+      "body": "The P/E ratio compares price to earnings for shareholders only, so debt distorts it. A company loaded with debt has higher interest costs, lower net income and a different P/E, even if the business underneath is identical. Enterprise value fixes this.\n\nEV is roughly what it would cost to buy the whole business: market cap plus debt, minus cash, plus preferred shares and minority interests if any. EBITDA is earnings before interest, taxes, depreciation and amortization, a rough proxy for operating profit available to all capital providers. Because both sides include lenders, EV/EBITDA lets you compare companies with different leverage.\n\nIts weakness: EBITDA ignores the cost of replacing assets. For capital-heavy businesses like telecoms or airlines, check EV/EBIT or EV/FCF as well.",
+      "example": "Company A: $1,000M market cap, no debt, $125M EBITDA, so 8.0x. Company B: $600M market cap, $400M of net debt, $125M EBITDA. Its EV is also $1,000M, so it's also 8.0x. Same business value, very different equity values.",
+      "takeaway": "Use EV-based multiples when companies carry different amounts of debt."
+    },
+    {
+      "id": "2026-10-31-2",
+      "topic": "running",
+      "icon": "timer",
+      "title": "Strides: 20 seconds to faster legs",
+      "body": "Strides are short, smooth accelerations, usually 15 to 25 seconds, done after an easy run. You build from a jog to roughly mile race pace, hold it briefly, then ease off. Fast, but never a flat-out sprint or a strain.\n\nWhy bother? Easy running builds the engine but does little for leg speed and coordination. Strides train your nervous system to fire muscles quickly and efficiently, reinforce good form at speed, and make faster paces feel familiar, all with almost no added fatigue because the reps are short and recovery is full.\n\nMany coaches prescribe 4 to 6 strides, two or three times a week. Do them on flat ground or a gentle downhill, keep your face and shoulders relaxed, and walk or jog back until fully recovered.",
+      "example": "After your next easy run, find a flat 100 m stretch. Do 6 × 20 seconds, building to fast-but-relaxed, and walk back to the start for 60 to 90 seconds between each. Total extra time: about 10 minutes.",
+      "takeaway": "Short, relaxed bursts after easy runs teach your legs to move fast."
+    },
+    {
+      "id": "2026-10-31-3",
+      "topic": "recipe",
+      "icon": "bowl",
+      "title": "Pumpkin, Lentil & Black Bean Chili",
+      "body": "A Halloween-season chili that tastes like fall and packs real protein. Sauté a diced onion, a red pepper and 3 garlic cloves in oil. Add 2 tbsp chili powder, 2 tsp cumin, 1 tsp smoked paprika and a pinch of cinnamon, and toast for a minute.\n\nStir in 1 cup of dry red lentils, 1 cup of dry textured vegetable protein (TVP), two drained cans of black beans, a 398 mL can of pumpkin purée, a 796 mL can of crushed tomatoes and 4 cups of vegetable broth. Simmer about 25 minutes, stirring often, until the lentils collapse and it thickens.\n\nFinish with lime juice and salt. Top with Greek yogurt, cheddar, cilantro and toasted pumpkin seeds. It freezes perfectly, so make the full batch.",
+      "example": "Makes 4 big servings at about 35 g protein each, mostly from the lentils, TVP and beans. A dollop of Greek yogurt adds roughly 5 g more. TVP is cheap and sold at bulk food stores and many grocery stores.",
+      "takeaway": "Lentils plus TVP turn a pot of chili into high-protein meal prep."
+    },
+    {
+      "id": "2026-10-31-4",
+      "topic": "music",
+      "title": "Radiohead: In Rainbows",
+      "body": "In October 2007, Radiohead released In Rainbows as a download and let fans pay whatever they wanted, including nothing. Announced only days before release, it became a landmark experiment in music pricing. The album itself is the band's warmest and most human record: less icy than Kid A, with more groove and more heart.\n\nThe interlocking guitars are the thing to listen for. Jonny Greenwood, Ed O'Brien and Thom Yorke often play separate arpeggiated patterns that lock together into one shimmering texture, while Phil Selway's drums push everything forward.\n\nStart with Weird Fishes/Arpeggi, then Reckoner and Nude. If you play guitar, try picking out one of the arpeggio lines in Weird Fishes; it's a great right-hand exercise.",
+      "example": "Listen to Weird Fishes/Arpeggi three times: once following only the drums, once the guitars, once the vocals. Each guitar part repeats a simple pattern, yet together they sound like one complex instrument.",
+      "takeaway": "Simple parts that interlock can sound richer than any solo."
+    },
+    {
+      "id": "2026-10-31-5",
+      "topic": "chess",
+      "title": "The knight fork: chess's sneakiest weapon",
+      "body": "A fork is one piece attacking two or more targets at once, so your opponent can only save one. Every piece can fork, but knights are the masters, because their L-shaped jump can't be blocked and hits squares that other pieces don't line up on.\n\nThe most valuable forks include the king: check must be answered immediately, so the other target falls next move. A fork of king and queen is the dream, sometimes called a royal fork.\n\nTo spot fork chances, look for enemy pieces standing on the same colour. A knight always attacks squares of the opposite colour to the one it's on, so two valuable pieces on light squares and your knight on a dark square nearby is a pattern worth checking.",
+      "example": "The classic: Black's king is on e8 and a rook sits on a8. A white knight lands on c7 with check, attacking both. Black must move the king, and the knight takes the rook. In the opening, always keep an eye on c7 (and c2 for Black).",
+      "takeaway": "Knights fork pieces that stand on the same colour square."
+    },
+    {
+      "id": "2026-10-31-6",
+      "topic": "wildcard",
+      "title": "The first jack-o'-lanterns were turnips",
+      "body": "Long before pumpkins, people in Ireland and Scotland carved faces into turnips and other root vegetables around Samhain, the Gaelic festival marking the end of the harvest on the night of October 31. Lit with embers or candles, the lanterns were said to ward off wandering spirits.\n\nThe name connects to a folk tale about Stingy Jack, a man who tricked the Devil and was condemned to wander the earth with only a coal in a hollowed-out turnip to light his way. Jack of the lantern became jack-o'-lantern.\n\nWhen Irish and Scottish immigrants brought the tradition to North America in the 1800s, they found pumpkins: native, bigger, softer and far easier to carve. The rest is Halloween history.",
+      "example": "Search for photos of traditional Irish turnip lanterns. With their shrivelled, gaunt faces, they look far creepier than any pumpkin, which was rather the point.",
+      "takeaway": "Halloween's pumpkin is an immigrant upgrade of an old Irish turnip."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "A company has an $800M market cap, $300M of debt, $100M of cash and $100M of EBITDA. What is its EV/EBITDA?",
+      "options": ["8.0x", "11.0x", "10.0x", "9.0x"],
+      "answer": 2,
+      "explanation": "EV = 800 + 300 − 100 = $1,000M, and 1,000 / 100 = 10.0x."
+    },
+    {
+      "question": "What is the main purpose of strides?",
+      "options": ["Building aerobic base", "Improving leg speed and form with little added fatigue", "Burning extra calories", "Replacing a weekly interval session"],
+      "answer": 1,
+      "explanation": "Strides are short, fully recovered efforts that train the nervous system and form at speed."
+    },
+    {
+      "question": "Besides beans, which two ingredients supply most of the protein in the pumpkin chili?",
+      "options": ["Red lentils and TVP", "Pumpkin and tomatoes", "Cheddar and pumpkin seeds", "Vegetable broth and onions"],
+      "answer": 0,
+      "explanation": "One cup each of dry red lentils and TVP adds roughly 90 g of protein to the pot."
+    },
+    {
+      "question": "What was unusual about the 2007 release of In Rainbows?",
+      "options": ["It was released only on vinyl", "It had no guitars", "It was released one song per month", "Fans could pay whatever they wanted for the download"],
+      "answer": 3,
+      "explanation": "Radiohead let fans name their own price, including zero, a landmark pricing experiment."
+    },
+    {
+      "question": "Why should you look for enemy pieces on the same colour when hunting knight forks?",
+      "options": ["Knights can only move on light squares", "Pieces on the same colour are always undefended", "A knight's targets are always all on the colour opposite the square it stands on", "Bishops can't defend pieces on the same colour"],
+      "answer": 2,
+      "explanation": "A knight always jumps to the opposite colour, so every square it attacks shares one colour."
+    },
+    {
+      "question": "Before pumpkins, what were jack-o'-lanterns carved from in Ireland and Scotland?",
+      "options": ["Gourds", "Turnips and other root vegetables", "Apples", "Wooden blocks"],
+      "answer": 1,
+      "explanation": "Turnips and similar roots were carved around Samhain; immigrants switched to pumpkins in North America."
+    }
+  ]
+}

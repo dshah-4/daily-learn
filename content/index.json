@@ -1,0 +1,137 @@
+{
+    "days":  [
+                 {
+                     "date":  "2026-10-29",
+                     "topics":  [
+                                    "investing",
+                                    "running",
+                                    "recipe",
+                                    "music",
+                                    "philosophy",
+                                    "chess"
+                                ],
+                     "titles":  [
+                                    "Free cash flow yield: the honest earnings number",
+                                    "Easy runs should feel almost too easy",
+                                    "Crispy Tofu \u0026 Edamame Peanut Bowl",
+                                    "Khruangbin: Con Todo El Mundo",
+                                    "Epictetus and the dichotomy of control",
+                                    "Checks, captures, threats: the blunder filter"
+                                ]
+                 },
+                 {
+                     "date":  "2026-10-30",
+                     "topics":  [
+                                    "economics",
+                                    "weightlifting",
+                                    "guitar",
+                                    "book",
+                                    "canadian-finance",
+                                    "investing"
+                                ],
+                     "titles":  [
+                                    "The Taylor rule: a central banker\u0027s cheat sheet",
+                                    "Double progression: the simplest way to keep growing",
+                                    "CAGED: five shapes that unlock the neck",
+                                    "The Most Important Thing by Howard Marks",
+                                    "TFSA or RRSP first? Follow your tax bracket",
+                                    "Economic moats: why some profits survive"
+                                ]
+                 },
+                 {
+                     "date":  "2026-10-31",
+                     "topics":  [
+                                    "investing",
+                                    "running",
+                                    "recipe",
+                                    "music",
+                                    "chess",
+                                    "wildcard"
+                                ],
+                     "titles":  [
+                                    "EV/EBITDA: compare businesses, not balance sheets",
+                                    "Strides: 20 seconds to faster legs",
+                                    "Pumpkin, Lentil \u0026 Black Bean Chili",
+                                    "Radiohead: In Rainbows",
+                                    "The knight fork: chess\u0027s sneakiest weapon",
+                                    "The first jack-o\u0027-lanterns were turnips"
+                                ]
+                 },
+                 {
+                     "date":  "2026-11-01",
+                     "topics":  [
+                                    "economics",
+                                    "weightlifting",
+                                    "philosophy",
+                                    "guitar",
+                                    "canadian-finance",
+                                    "book"
+                                ],
+                     "titles":  [
+                                    "Comparative advantage: why trade isn\u0027t zero-sum",
+                                    "Reps in reserve: train hard without guessing",
+                                    "Aristotle: you become what you practise",
+                                    "The minor pentatonic: your first solo map",
+                                    "Credit scores: what really moves yours",
+                                    "Thinking, Fast and Slow by Daniel Kahneman"
+                                ]
+                 },
+                 {
+                     "date":  "2026-11-02",
+                     "topics":  [
+                                    "investing",
+                                    "running",
+                                    "recipe",
+                                    "chess",
+                                    "music",
+                                    "economics"
+                                ],
+                     "titles":  [
+                                    "Reading a 10-K: where to actually look",
+                                    "Cadence: shorter steps, happier knees",
+                                    "40 g Protein Overnight Oats",
+                                    "The opposition: winning king and pawn endings",
+                                    "Miles Davis: Kind of Blue",
+                                    "Why the Bank of Canada targets 2% inflation"
+                                ]
+                 },
+                 {
+                     "date":  "2026-11-03",
+                     "topics":  [
+                                    "investing",
+                                    "weightlifting",
+                                    "canadian-finance",
+                                    "philosophy",
+                                    "guitar",
+                                    "wildcard"
+                                ],
+                     "titles":  [
+                                    "WACC: the hurdle every investment must clear",
+                                    "Protein: how much actually builds muscle",
+                                    "The FHSA: the best tax deal for a first home",
+                                    "Hume\u0027s guillotine: you can\u0027t get ought from is",
+                                    "Learn the notes on the low E string",
+                                    "The Lindy effect: old ideas tend to last"
+                                ]
+                 },
+                 {
+                     "date":  "2026-11-04",
+                     "topics":  [
+                                    "economics",
+                                    "running",
+                                    "recipe",
+                                    "book",
+                                    "chess",
+                                    "investing"
+                                ],
+                     "titles":  [
+                                    "The yield curve: the bond market\u0027s recession alarm",
+                                    "The long run: your weekly cornerstone",
+                                    "Sheet-Pan Paneer Tikka with Chickpeas",
+                                    "Meditations by Marcus Aurelius",
+                                    "The Italian Game: an opening to own",
+                                    "Margin of safety: room to be wrong"
+                                ]
+                 }
+             ]
+}
