@@ -3,93 +3,98 @@
   "cards": [
     {
       "id": "2026-11-04-1",
-      "topic": "economics",
-      "icon": "chart",
-      "title": "The yield curve: the bond market's recession alarm",
-      "body": "The yield curve plots government bond yields across maturities. Normally it slopes upward: lenders demand more to lock money up for ten years than for three months. When short-term yields rise above long-term yields, the curve inverts.\n\nIn the U.S., inversion has preceded every recession since the late 1960s, with a lag ranging from roughly six months to two years. The logic: the central bank has pushed short rates up to fight inflation, while long rates fall because markets expect slower growth and future rate cuts. Tight money also squeezes bank lending margins, so credit dries up.\n\nIt isn't infallible. The 2022 to 2024 U.S. inversion was the longest on record, and its meaning was hotly debated. Treat it as a shift in probabilities, not a countdown clock.",
-      "example": "The 10-year yield is 3.5% and the 2-year is 4.2%, so the 10s-2s spread is −0.7 percentage points: inverted. Analysts watch both the 10-year minus 2-year and 10-year minus 3-month spreads, and Canada's curve can be read the same way.",
-      "takeaway": "An inverted curve says markets expect lower rates and slower growth ahead."
+      "topic": "wildcard",
+      "title": "Octopuses have three hearts and blue blood",
+      "body": "An octopus runs on three hearts. Two branchial hearts pump blood through the gills, where it picks up oxygen, and a third, the systemic heart, pushes it around the rest of the body. Curiously, the systemic heart stops beating while the octopus swims, one reason octopuses tend to prefer crawling: swimming is exhausting.\n\nTheir blood is blue because it carries oxygen using hemocyanin, a copper-based protein, instead of the iron-based hemoglobin that makes ours red. Hemocyanin works well in cold, low-oxygen water but carries less oxygen overall, which helps explain the need for extra pumping power.\n\nAnd that's just the plumbing. Around two-thirds of an octopus's neurons sit in its arms, which can taste what they touch and react with surprising independence from the central brain.",
+      "example": "Octopuses and humans last shared an ancestor more than 500 million years ago, likely a simple worm-like creature. So the octopus's problem-solving intelligence evolved almost entirely separately from ours, with a very different body plan built around it.",
+      "takeaway": "Octopuses solved intelligence and circulation in a completely alien way."
     },
     {
       "id": "2026-11-04-2",
-      "topic": "running",
-      "title": "The long run: your weekly cornerstone",
-      "body": "If you only do one structured session a week, make it the long run. Running continuously for longer than usual drives the adaptations that matter for everything from a 10K to a marathon: more capillaries and mitochondria, larger glycogen stores, tougher tendons, and the mental habit of staying relaxed when tired.\n\nKeep it at an easy, conversational pace, especially at first. A common guideline is that the long run makes up roughly 20 to 30 percent of your weekly distance. Build it gradually, adding one to two kilometres every week or two, with an easier week every third or fourth week.\n\nFor runs over about 75 to 90 minutes, practise fuelling: take in carbohydrates during the run, starting around 45 minutes in.",
-      "example": "Running 30 km a week? Make your long run about 8 to 9 km. Next week try 10 km, then hold there for a week before adding more. A Sunday morning slot works well for most schedules.",
-      "takeaway": "One easy, gradually longer run a week builds the deepest endurance."
+      "topic": "investing",
+      "icon": "scale",
+      "title": "Margin of safety: Graham's three-word secret",
+      "body": "In the final chapter of The Intelligent Investor, Benjamin Graham set himself the challenge of distilling sound investing into three words. His answer: margin of safety. Buy only when the price sits well below your estimate of intrinsic value, so that even if you're wrong, you don't lose much.\n\nThe logic is engineering, not optimism. A bridge built to hold exactly the heaviest expected truck fails on the first overloaded day; one built with a large buffer survives surprises. Your valuation will always be uncertain, because forecasts of growth, margins and discount rates are educated guesses. The discount to value is your buffer for those errors.\n\nHow large a margin you need depends on the uncertainty. A stable business you understand well may justify a smaller one; a speculative one may need far more, or a pass.",
+      "example": "You value a stock at $60 per share. With a one-third margin of safety, you'd buy at $40 or less. If your estimate turns out 25% too optimistic, true value is $45 and you're still ahead. Buying at $58 leaves no room for that same mistake.",
+      "takeaway": "Pay a price low enough that being wrong doesn't ruin you."
     },
     {
       "id": "2026-11-04-3",
-      "topic": "recipe",
-      "title": "Sheet-Pan Paneer Tikka with Chickpeas",
-      "body": "Restaurant flavour, one pan, almost no cleanup. Cube a 350 g block of paneer and toss it with a drained can of chickpeas, a sliced red onion and two bell peppers cut into chunks.\n\nFor the marinade, mix 1/2 cup Greek yogurt with 1 tbsp lemon juice, 2 tsp garam masala, 1 tsp each of cumin, smoked paprika and turmeric, 2 grated garlic cloves, a thumb of grated ginger, salt and 1 tbsp oil. Coat everything well; even ten minutes of marinating helps, and an hour is better.\n\nSpread on a lined sheet pan and roast at 230°C for 20 to 25 minutes, until the paneer is golden at the edges and the peppers are charred. Finish with cilantro and lemon. Serve with rice, naan or a big salad.",
-      "example": "Serves 2 at about 45 g protein each: roughly 65 g from the paneer, 20 g from the chickpeas and 10 g from the yogurt. Paneer is rich, so choose a lighter version or add extra chickpeas if you're watching calories.",
-      "takeaway": "A yogurt marinade and high heat make paneer a 45 g protein dinner."
+      "topic": "psychology",
+      "title": "The IKEA effect: we overvalue what we build",
+      "body": "People place extra value on things they've made themselves, even when the result is mediocre. In research published in 2012, Michael Norton, Daniel Mochon and Dan Ariely had participants assemble simple IKEA storage boxes. They were willing to pay noticeably more for their own boxes than for identical pre-assembled ones, and in another test rated their amateur origami almost as highly as an expert's.\n\nEffort creates attachment. That's useful, since people stick with projects they've invested in, but it distorts judgment. We overrate our own ideas, plans and spreadsheets simply because we built them.\n\nInvestors are especially exposed. After weeks building a detailed model and thesis, it's painful to admit the stock is a bad idea. Guard against it by writing down, before you start, what evidence would make you abandon the idea, and by asking someone uninvolved to attack it.",
+      "example": "You've spent a month on a model showing a stock is worth $80. New data cuts your revenue forecast by 15%. The IKEA effect will push you to hunt for reasons the model still works. Instead, update the numbers first, then decide what you think.",
+      "takeaway": "Effort breeds attachment; judge your own work as if a stranger made it."
     },
     {
       "id": "2026-11-04-4",
-      "topic": "book",
-      "title": "Meditations by Marcus Aurelius",
-      "body": "Marcus Aurelius ruled the Roman Empire from 161 to 180 AD, through plague and near-constant war, and kept a private notebook he never meant to publish. Those notes to himself became Meditations, one of the most widely read works of practical philosophy.\n\nIt's Stoicism in action, drawing on Epictetus, whom Marcus admired: reminders to focus on what's in his control, to treat others fairly even when they disappoint him, to remember that fame and pain are both brief. Reading it feels less like a lecture and more like overhearing a powerful person trying to stay decent.\n\nTranslation matters a lot. Gregory Hays's 2002 version is modern and readable. Don't go cover to cover; read a few entries each morning.",
-      "example": "Start with Book 2, entry 1, where he prepares each morning to meet people who will be meddling, ungrateful and arrogant, and resolves not to be harmed or angered by them. Then read Book 1, his list of what he learned from the people in his life.",
-      "takeaway": "Read a few entries each morning; it's a manual for staying steady."
+      "topic": "recipe",
+      "icon": "bowl",
+      "title": "Chickpea Shakshuka with Feta",
+      "body": "Shakshuka, eggs poached in a spiced tomato sauce, is popular across North Africa and the Middle East, and adding chickpeas turns it into a serious protein meal. In a large skillet, soften a diced onion and a red pepper in 1 tbsp olive oil for about 6 minutes. Add 3 cloves of garlic, 2 tsp paprika, 1 tsp cumin and a pinch of chili flakes, and stir for a minute.\n\nPour in a 796 mL can of crushed tomatoes and a drained 540 mL can of chickpeas, and simmer for 10 minutes until thick. Make six wells in the sauce, crack an egg into each, cover, and cook on low for 6 to 8 minutes until the whites set but the yolks stay soft.\n\nScatter with 60 g of crumbled feta and fresh parsley, and serve straight from the pan.",
+      "example": "Makes 2 servings at roughly 33 g protein each: about 18 g from three eggs, 11 g from half the chickpeas and 4 g from the feta. Serve with toasted whole-grain bread to mop up the sauce and add a few more grams.",
+      "takeaway": "Eggs plus chickpeas turn shakshuka into a 30 g protein dinner."
     },
     {
       "id": "2026-11-04-5",
-      "topic": "chess",
-      "title": "The Italian Game: an opening to own",
-      "body": "After 1.e4 e5 2.Nf3 Nc6 3.Bc4, you're in the Italian Game, one of the oldest openings in chess and still popular at every level, including the very top. White develops quickly, aims the bishop at f7, the weakest square in Black's camp because only the king defends it, and prepares to castle.\n\nThe classical line, the Giuoco Piano, continues 3...Bc5 4.c3, planning d4 to build a big pawn centre. Modern players often prefer a slower setup with d3, building up patiently before striking.\n\nThe Italian rewards principles over memorization: develop knights before bishops, castle early, fight for the centre, and don't move the same piece twice without a reason. Learn the ideas and you'll handle most replies.",
-      "example": "Watch for the trap 3...Nd4 after 3.Bc4. Grabbing the pawn with 4.Nxe5? runs into 4...Qg5!, hitting the knight and g2 at once, and White is suddenly in serious trouble. Calmly castling or playing 4.c3 is better.",
-      "takeaway": "Develop, castle, aim at f7, and fight for the centre."
+      "topic": "business",
+      "title": "Network effects: why winners take most",
+      "body": "A product has network effects when it becomes more valuable as more people use it. A phone is useless if no one else has one; a marketplace with more buyers attracts more sellers, which in turn attracts more buyers.\n\nThe number of possible connections grows much faster than the number of users. With n users there are n(n − 1)/2 possible pairs, so 10 users give 45 connections but 1,000 users give nearly 500,000. That's why markets with strong network effects often tip toward one or two dominant players.\n\nThere are different kinds. Direct effects come from users connecting with each other, as in messaging apps. Two-sided effects link different groups, like a card network connecting cardholders and merchants. The catch is the cold-start problem: a network is nearly worthless when empty, so early growth is brutally hard and often subsidized.",
+      "example": "Visa and Mastercard are classic two-sided networks: merchants accept them because nearly every consumer carries one, and consumers carry them because nearly every merchant accepts them. A new card network would struggle to convince either side to move first.",
+      "takeaway": "Network effects make products more valuable with each user, so markets tip."
     },
     {
       "id": "2026-11-04-6",
-      "topic": "investing",
-      "icon": "target",
-      "title": "Margin of safety: room to be wrong",
-      "body": "Benjamin Graham, Buffett's teacher, called margin of safety the central concept of investment in the final chapter of The Intelligent Investor. The idea: since your estimate of a business's value is uncertain, only buy when the price sits well below it.\n\nThe gap protects you from your own mistakes, bad luck and events nobody could foresee. If you think a stock is worth $50 and buy at $49, any error hurts you. Buy at $33 and you can be quite wrong and still do fine.\n\nIn practice, margin of safety comes from more than price: conservative assumptions, strong balance sheets, and businesses whose value doesn't hinge on one rosy forecast. It also explains why great investors pass on most ideas. Waiting for the right price is part of the job.",
-      "example": "Your DCF says intrinsic value is $50 a share. With a one-third margin of safety, your buy price is about $33. If your cash flow forecasts prove 20% too optimistic, true value is closer to $40, and you still profit.",
-      "takeaway": "Buy at a big discount to value so being wrong doesn't ruin you."
+      "topic": "language",
+      "title": "Why English spelling makes so little sense",
+      "body": "English spelling looks chaotic partly because it froze while pronunciation kept moving. Between roughly 1400 and 1700, the Great Vowel Shift changed how long vowels were pronounced. In Chaucer's time, time sounded more like \"teem\" and house more like \"hoose\".\n\nAt the same time, printing arrived. William Caxton set up England's first printing press in 1476, and printers gradually standardized spellings that often reflected older pronunciations. The letters stayed put while the sounds moved on.\n\nOther quirks came from deliberate tinkering. Scholars added silent letters to show Latin roots, like the b in debt, from Latin debitum, even though English had borrowed the word from French as dette. And the k in knight and knee was once pronounced, which is why the words are spelled that way.",
+      "example": "Try reading the opening line of Chaucer's Canterbury Tales aloud: \"Whan that Aprill with his shoures soote.\" Shoures (showers) was pronounced closer to \"shoo-res\". Many modern spellings still preserve sounds like these, centuries after speech moved on.",
+      "takeaway": "English spelling records how words sounded centuries ago, not today."
     }
   ],
   "quiz": [
     {
-      "question": "What does it mean when the yield curve is inverted?",
-      "options": ["Long-term yields are far above short-term yields", "Short-term yields are above long-term yields", "All yields are negative", "Bond prices are rising across all maturities"],
+      "question": "Why is octopus blood blue?",
+      "options": ["It contains chlorophyll", "It carries oxygen with copper-based hemocyanin", "It contains no oxygen at all", "Seawater dyes it blue"],
       "answer": 1,
-      "explanation": "Inversion means short rates exceed long rates, usually because markets expect future rate cuts and slower growth."
+      "explanation": "Hemocyanin uses copper instead of iron to bind oxygen, which gives the blood a blue colour.",
+      "review": false
     },
     {
-      "question": "You run 40 km a week. Using the 20–30% guideline, about how long should your long run be?",
-      "options": ["About 4 km", "About 20 km", "About 25 km", "About 10 km"],
+      "question": "You value a stock at $90. To buy with a one-third margin of safety, what's the most you'd pay?",
+      "options": ["$80", "$75", "$67.50", "$60"],
       "answer": 3,
-      "explanation": "20 to 30 percent of 40 km is 8 to 12 km, so about 10 km fits."
+      "explanation": "A one-third discount to $90 is $30, so the maximum price is $60.",
+      "review": false
     },
     {
-      "question": "What gives the paneer golden, charred edges in the sheet-pan tikka?",
-      "options": ["Roasting at high heat, around 230°C", "Boiling it before roasting", "Marinating it overnight in lemon juice only", "Covering the pan with foil"],
+      "question": "Which habit best protects an analyst from the IKEA effect?",
+      "options": ["Writing down in advance what evidence would make them abandon the thesis", "Spending more time refining the model", "Only reading reports that agree with them", "Adding to the position after more research"],
       "answer": 0,
-      "explanation": "High oven heat browns the yogurt marinade and paneer quickly without drying it out."
+      "explanation": "Pre-committing to kill criteria counters the attachment that effort creates.",
+      "review": false
     },
     {
-      "question": "In the Italian Game, why does White's bishop on c4 target f7?",
-      "options": ["It's where Black's queen usually goes", "It's the only square the bishop can reach", "Early in the game only Black's king defends it", "Pawns on f7 cannot move"],
+      "question": "In the chickpea shakshuka, how are the eggs cooked?",
+      "options": ["Scrambled into the sauce at the start", "Hard-boiled separately and sliced on top", "Cracked into wells in the sauce and poached under a lid", "Baked into a crust"],
       "answer": 2,
-      "explanation": "f7 is guarded only by the king at the start, which makes it Black's weakest point."
+      "explanation": "The eggs are cracked into wells in the simmering sauce and cooked covered until the whites set.",
+      "review": false
     },
     {
-      "question": "You estimate intrinsic value at $80 a share and want a 25% margin of safety. What is your maximum buy price?",
-      "options": ["$75", "$64", "$55", "$60"],
-      "answer": 3,
-      "explanation": "$80 × (1 − 0.25) = $60."
-    },
-    {
-      "question": "Review: Under the Taylor rule, if inflation rises 1 point above target and the output gap is unchanged, how should the policy rate move?",
-      "options": ["Rise by 0.5 points", "Stay the same", "Rise by about 1.5 points", "Rise by exactly 1 point"],
-      "answer": 2,
-      "explanation": "Inflation enters once directly and again at half weight through the gap term: 1 + 0.5 = 1.5 points. From Friday's Taylor rule card.",
+      "question": "Review: What combination of conditions defined 1970s stagflation?",
+      "options": ["Low inflation and low unemployment", "High inflation alongside rising unemployment", "Falling prices and rapid growth", "Low interest rates and a housing boom"],
+      "answer": 1,
+      "explanation": "Stagflation combined double-digit inflation with rising unemployment, breaking the simple Phillips curve trade-off.",
       "review": true,
-      "reviewOf": "2026-10-30-1"
+      "reviewOf": "2026-10-30-2"
+    },
+    {
+      "question": "Why does English spelling often not match pronunciation?",
+      "options": ["Dictionaries were written by non-English speakers", "Victorian reformers randomized spellings", "Pronunciation hasn't changed since Chaucer", "Spellings were standardized with printing while vowel sounds kept shifting"],
+      "answer": 3,
+      "explanation": "Printing fixed spellings during and after the Great Vowel Shift, so spelling reflects older pronunciations.",
+      "review": false
     }
   ]
 }

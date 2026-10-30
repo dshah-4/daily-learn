@@ -3,92 +3,97 @@
   "cards": [
     {
       "id": "2026-11-01-1",
-      "topic": "economics",
-      "title": "Comparative advantage: why trade isn't zero-sum",
-      "body": "In 1817, David Ricardo showed something counterintuitive: two countries can both gain from trade even if one is better at producing everything. What matters isn't absolute advantage but comparative advantage, meaning who gives up less to produce each good.\n\nThe key concept is opportunity cost. If one country sacrifices less wine for every unit of cloth it makes, it should specialize in cloth, and the other should make wine, even if it's less efficient at both. Specializing and trading raises total output, so both sides can consume more than they could alone.\n\nThis is why most economists agree broad tariffs reduce overall welfare, even when specific industries benefit. It also explains everyday life: a brilliant analyst still hires an assistant, because the analyst's hour is worth more spent on analysis.",
-      "example": "Ricardo's numbers: Portugal needs the labour of 80 workers for a unit of wine and 90 for cloth; England needs 120 and 100. Portugal is better at both, but its edge is biggest in wine. So Portugal makes wine, England makes cloth, and trade leaves both better off.",
-      "takeaway": "Specialize in what you give up least to do, then trade."
+      "topic": "technology",
+      "title": "Moore's law: the forecast that built tech",
+      "body": "In 1965, Gordon Moore, who later co-founded Intel, noticed that the number of components on a chip was doubling about every year. In 1975 he revised that to roughly every two years. It was an observation, not a law of physics, but the industry treated it as a target and hit it for decades.\n\nThe compounding was staggering. Intel's first microprocessor, the 4004 from 1971, had about 2,300 transistors. Today's biggest chips pack tens of billions. Each doubling made computers cheaper, smaller and more powerful, enabling PCs, smartphones and now AI.\n\nSince the mid-2000s the free lunch has shrunk. Individual processor cores stopped getting much faster, so designers added more cores and specialized chips like GPUs. Shrinking transistors further keeps getting harder and more expensive, which is why leading-edge chip-making is now concentrated in a handful of companies.",
+      "example": "Doubling every two years for 50 years is 25 doublings, a factor of about 33 million. Applied to the 4004's 2,300 transistors from 1971, that gives roughly 77 billion by 2021, the same order of magnitude as the largest chips of the early 2020s.",
+      "takeaway": "Moore's law was a self-fulfilling forecast: steady doubling, compounded for decades."
     },
     {
       "id": "2026-11-01-2",
-      "topic": "weightlifting",
-      "title": "Reps in reserve: train hard without guessing",
-      "body": "How hard was that set? Reps in reserve (RIR) answers with a number: how many more good reps you could have done before failure. Its sibling, RPE (rating of perceived exertion), uses a 10-point scale where RPE 10 means nothing left, RPE 9 means one rep left and RPE 8 means two.\n\nHypertrophy research suggests sets taken within roughly 0 to 3 reps of failure stimulate growth effectively, while stopping far short gives less return. Going to true failure on every set, though, piles up fatigue, especially on big lifts like squats and deadlifts.\n\nA practical rule: compound lifts at 1 to 3 RIR, isolation exercises closer to 0 to 1. You'll misjudge at first; most newer lifters underestimate how many reps they really have left.",
-      "example": "You squat 100 kg for 8 reps and feel you could have ground out exactly 2 more. That's 2 RIR, or RPE 8. Next session, if 8 reps at 100 kg feels like RPE 7, it's time to add load.",
-      "takeaway": "Most growth comes from sets ending 0 to 3 reps short of failure."
+      "topic": "running",
+      "title": "Hill repeats: speed work in disguise",
+      "body": "Hills force you to drive your knees, push off powerfully and use your arms, which builds the strength and power that make you faster on the flat. Because you're moving more slowly uphill, the pounding on your legs is lower than in fast track intervals, so hill repeats are a relatively gentle way to start doing quality work.\n\nThe classic session is short and hard. Find a moderate hill that takes 60 to 90 seconds to climb. Run up at a strong effort, about your 5K race effort, keeping tall posture and quick steps. Jog or walk back down as recovery, then repeat.\n\nKeep the effort controlled rather than all-out, and stop the session while your form still looks good. Do hills once a week for a few weeks before adding other fast work.",
+      "example": "This week: 10 minutes of easy jogging, then 6 × 75 seconds uphill at hard effort, walking or jogging down for recovery, then 10 minutes easy. Next week, add one or two repeats if the last one felt as strong as the first.",
+      "takeaway": "Hills build speed with less pounding: short, strong, controlled."
     },
     {
       "id": "2026-11-01-3",
-      "topic": "philosophy",
-      "title": "Aristotle: you become what you practise",
-      "body": "In the Nicomachean Ethics, Aristotle argues that virtues aren't innate. We aren't born brave or generous; we become brave by doing brave acts and generous by giving, just as we become builders by building and lyre players by playing the lyre. Character is a skill, trained through repetition until the right action feels natural and even pleasant.\n\nHe adds that virtue is usually a mean between extremes: courage sits between cowardice and recklessness, generosity between stinginess and extravagance.\n\nOne footnote: the famous line that we are what we repeatedly do, and excellence is not an act but a habit, isn't actually Aristotle's. It's the historian Will Durant summarizing him in 1926. The idea is Aristotle's; the polished phrasing is Durant's.",
-      "example": "Want to be someone who speaks up in class or in interviews? Aristotle would say don't wait to feel confident. Ask one question in every lecture this week. The feeling follows the action, not the other way around.",
-      "takeaway": "Character is built like a skill: by repeating the actions you want to own."
+      "topic": "art-design",
+      "title": "Negative space: the hidden arrow in FedEx",
+      "body": "Negative space is the empty area around and between the subjects of a design. Beginners treat it as leftover; good designers treat it as a shape in its own right.\n\nThe most famous example is the FedEx logo, designed by Lindon Leader in 1994. Between the capital E and the lowercase x sits a white arrow pointing forward, suggesting speed and precision. Most people never notice it, and once they do, they can't stop seeing it.\n\nNegative space does quieter work everywhere. Generous margins make text feel calm and premium. Space around a button tells your eye where to look. Crowding everything together signals cheapness or panic, which is why luxury brands and well-designed apps often look almost empty. The lesson for any presentation or pitch deck: what you leave out shapes how people read what you keep.",
+      "example": "Find the FedEx logo online and spot the arrow between the E and the x. Then open your last slide deck, pick the most crowded slide, cut a third of the text and widen the margins. Compare which version you'd rather present.",
+      "takeaway": "Empty space isn't wasted; it directs the eye and signals quality."
     },
     {
       "id": "2026-11-01-4",
-      "topic": "guitar",
-      "title": "The minor pentatonic: your first solo map",
-      "body": "Five notes, almost no wrong turns. The minor pentatonic scale drops the two notes of the natural minor scale that tend to clash, leaving a set that sounds good over nearly any blues, rock or funk progression in that key. In A minor, the notes are A, C, D, E and G.\n\nThe first position, or box 1, sits at the 5th fret, with two notes per string. Your index finger covers the 5th fret throughout, while your ring finger and pinky handle the 7th and 8th.\n\nOnce you can play it up and down cleanly, stop running the scale and start making phrases: play three notes, pause, repeat with a small change. Land on the root note A at the end of phrases, and try a bend on the G string from the 7th fret.",
-      "example": "Box 1 in A, low E string to high E: frets 5–8, 5–7, 5–7, 5–7, 5–8, 5–8. Play it with a metronome at 70 bpm, one note per click, then improvise over an A minor blues backing track for five minutes.",
-      "takeaway": "Five notes, one box at the 5th fret, and you can solo over the blues."
+      "topic": "recipe",
+      "icon": "bowl",
+      "title": "Red Lentil Dal with a Greek Yogurt Finish",
+      "body": "Dal is one of the cheapest, fastest high-protein vegetarian meals there is, and red lentils need no soaking. In a pot, soften a diced onion in 1 tbsp oil, then add 3 cloves of garlic, 1 tbsp grated ginger, 1 tsp each of cumin, turmeric and garam masala, and a pinch of chili flakes. Stir for a minute until fragrant.\n\nAdd 1 cup (200 g) of rinsed red lentils, a 398 mL can of diced tomatoes and 3 cups of water or stock. Simmer 20 to 25 minutes, stirring now and then, until the lentils collapse into a thick stew. Stir in two big handfuls of spinach until wilted, then season with salt and lemon juice.\n\nServe in two bowls, each topped with a generous scoop of plain Greek yogurt and chopped cilantro.",
+      "example": "Makes 2 servings at roughly 40 g protein each: about 25 g from the lentils and around 15 g from 3/4 cup of Greek yogurt. Add rice or naan for carbs on a training day, and double the batch: it tastes even better the next day.",
+      "takeaway": "Red lentils plus Greek yogurt: a 40 g protein dinner in 30 minutes."
     },
     {
       "id": "2026-11-01-5",
-      "topic": "canadian-finance",
-      "icon": "maple",
-      "title": "Credit scores: what really moves yours",
-      "body": "In Canada, Equifax and TransUnion produce credit scores on a 300 to 900 scale. Lenders use them for credit cards, car loans, apartment applications and eventually mortgages, so the habits you build as a student follow you for years.\n\nThe two biggest factors are payment history and credit utilization. Never miss a payment; even paying the minimum on time protects your record. Utilization is the balance reported on your statement divided by your limit. Keeping it under 30% is the common advice, and under 10% is better.\n\nLength of history matters too, so keep your oldest no-fee card open. Several new credit applications in a short period can ding your score, but checking your own score is a soft inquiry and never hurts it.",
-      "example": "You have a $2,000 limit and spend $1,200 a month. If the statement shows $1,200, utilization is 60%. Pay $1,000 a few days before the statement date and it reports $200, or 10%, even though you spent the same amount.",
-      "takeaway": "Pay on time and keep the reported balance under 30% of your limit."
+      "topic": "relationships",
+      "title": "Bids for connection: small moments, big stakes",
+      "body": "Psychologist John Gottman spent decades observing couples, and one of his most useful ideas applies to every relationship: bids. A bid is any small attempt to connect, like \"look at this\", a question, a joke or a sigh. The other person can turn toward it by responding, turn away by ignoring it, or turn against it with irritation.\n\nIn Gottman's research on newlyweds, the couples still together years later had turned toward each other's bids far more often than the couples who split up. Grand gestures mattered less than thousands of tiny responses.\n\nThe same holds for friends, family and teammates. People feel valued when their small bids land, and quietly drift away when they don't. Turning toward rarely takes more than a few seconds: looking up, asking a follow-up question, or laughing at the joke.",
+      "example": "A roommate says, \"Ugh, long day.\" Turning away: you keep scrolling. Turning toward: you put the phone down and ask what happened. This week, notice three bids from people close to you and turn toward each one.",
+      "takeaway": "Relationships are built in tiny moments of turning toward each other."
     },
     {
       "id": "2026-11-01-6",
-      "topic": "book",
-      "title": "Thinking, Fast and Slow by Daniel Kahneman",
-      "body": "Daniel Kahneman won the 2002 Nobel Prize in economics for work, much of it with Amos Tversky, showing that human judgment departs from rational models in predictable ways. This 2011 book is the guided tour.\n\nIts frame is two systems. System 1 is fast, automatic and intuitive; System 2 is slow, effortful and deliberate. Many errors happen when System 1 answers a hard question with an easier substitute and System 2 doesn't bother to check. From there come anchoring, availability, loss aversion, overconfidence and the planning fallacy.\n\nIt's essential for an investor, because markets are where these biases cost real money. One caution: some studies it cites, especially on priming, have failed to replicate, as Kahneman himself later acknowledged. Read those chapters skeptically.",
-      "example": "Read Part 1, then jump to Part 4, Choices, for prospect theory and loss aversion. Afterward, pick a stock you own or follow and ask: what anchor am I using? Often it's simply the price I paid.",
-      "takeaway": "Your intuition is fast and confident, which is exactly why it needs checking."
+      "topic": "chess",
+      "title": "The back-rank mate: give your king air",
+      "body": "One of the most common ways club games end is the back-rank mate. Your king sits safely castled behind three unmoved pawns, which is good, until an enemy rook or queen lands on your first rank. The pawns that protected the king now trap it, and it's checkmate.\n\nThe defence is simple: make luft, the German word for air. At a quiet moment, push one pawn in front of your king, usually h3 for White or h6 for Black, giving the king an escape square. Alternatively, keep a rook or queen guarding your back rank.\n\nThe attacking side of the idea matters just as much. When your opponent's king has no luft, look for ways to overload or deflect the pieces guarding their back rank. Often a sacrifice that removes one defender ends the game on the spot.",
+      "example": "White has castled kingside with pawns on f2, g2 and h2, and the only rook guarding the first rank gets lured away. Black plays Re1+ and it's mate, because the king can't step forward. One earlier h3 would have given the king h2 to escape.",
+      "takeaway": "Unmoved pawns protect your king until they imprison it; make luft."
     }
   ],
   "quiz": [
     {
-      "question": "Ana can write a report in 2 hours or build a slide deck in 1 hour. Ben takes 6 hours for a report and 2 hours for a deck. Who should build the decks?",
-      "options": ["Ana, because she's faster at decks", "Ben, because he gives up less to build one", "Neither; they should split everything evenly", "Ana, because she's faster at everything"],
-      "answer": 1,
-      "explanation": "A deck costs Ana half a report but costs Ben only a third of a report, so Ben has the comparative advantage in decks."
-    },
-    {
-      "question": "You finish a set and could have done exactly 3 more reps. What RPE was it?",
-      "options": ["RPE 3", "RPE 9", "RPE 7", "RPE 10"],
+      "question": "In 1975, how did Gordon Moore revise his prediction?",
+      "options": ["Doubling every six months", "Costs halving every decade", "Doubling roughly every two years", "Doubling roughly every ten years"],
       "answer": 2,
-      "explanation": "RPE = 10 minus reps in reserve, so 3 RIR is RPE 7."
+      "explanation": "Moore's original 1965 observation was a doubling every year; in 1975 he revised it to about every two years.",
+      "review": false
     },
     {
-      "question": "According to Aristotle, how does a person become brave?",
-      "options": ["By being born with a courageous temperament", "By studying the theory of courage", "By avoiding all fear", "By repeatedly doing brave acts until they become natural"],
-      "answer": 3,
-      "explanation": "For Aristotle, virtues are habits formed by practice, like any skill."
-    },
-    {
-      "question": "Which notes make up the A minor pentatonic scale?",
-      "options": ["A, C, D, E, G", "A, B, C, D, E", "A, C#, E, F#, G", "A, B, D, E, F"],
+      "question": "What effort should most hill repeats be run at?",
+      "options": ["A strong, controlled effort around 5K race effort", "An all-out sprint on every repeat", "An easy conversational pace", "Walking up and sprinting down"],
       "answer": 0,
-      "explanation": "A minor pentatonic is the root, minor third, fourth, fifth and minor seventh: A, C, D, E, G."
+      "explanation": "Hill repeats should be hard but controlled, so form holds up across every repeat.",
+      "review": false
     },
     {
-      "question": "You have a $3,000 limit and usually spend $1,500 a month. What's the simplest way to report lower utilization?",
-      "options": ["Open three new cards at once", "Only pay the minimum", "Close your oldest card", "Pay most of the balance before the statement date"],
+      "question": "What does negative space do in a good design?",
+      "options": ["Fills gaps when the designer runs out of content", "Makes printing cheaper", "Only matters in logos", "Acts as a shape of its own and guides where the eye goes"],
       "answer": 3,
-      "explanation": "Utilization is based on the statement balance, so paying before the statement closes lowers what's reported."
+      "explanation": "Good designers treat empty space as an active element that creates focus, calm and hidden shapes like the FedEx arrow.",
+      "review": false
     },
     {
-      "question": "Review: Which formula gives free cash flow?",
-      "options": ["Net income + depreciation", "Operating cash flow − capital expenditures", "Revenue − operating expenses", "EBITDA − interest"],
+      "question": "In the red lentil dal, where does most of the protein come from?",
+      "options": ["Spinach and tomatoes", "Red lentils and Greek yogurt", "Onion and garlic", "The spices"],
       "answer": 1,
-      "explanation": "FCF is the cash from operations left after paying for capex. From Thursday's FCF yield card.",
+      "explanation": "About 25 g per serving comes from the lentils and around 15 g from the Greek yogurt topping.",
+      "review": false
+    },
+    {
+      "question": "Review: A company has a $25B market cap, $3B of operating cash flow and $1B of capex. What is its FCF yield?",
+      "options": ["12%", "4%", "8%", "16%"],
+      "answer": 2,
+      "explanation": "FCF = $3B − $1B = $2B, and $2B / $25B = 8%.",
       "review": true,
       "reviewOf": "2026-10-29-1"
+    },
+    {
+      "question": "What is luft in chess?",
+      "options": ["An escape square for the king made by pushing a pawn in front of it", "A rook on the seventh rank", "A pawn sacrifice in the opening", "A draw by repetition"],
+      "answer": 0,
+      "explanation": "Luft (German for air) is a pawn move like h3 that gives a castled king room to escape back-rank checks.",
+      "review": false
     }
   ]
 }

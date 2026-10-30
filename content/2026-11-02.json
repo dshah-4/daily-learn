@@ -3,92 +3,95 @@
   "cards": [
     {
       "id": "2026-11-02-1",
-      "topic": "investing",
-      "icon": "book",
-      "title": "Reading a 10-K: where to actually look",
-      "body": "Annual reports are long, and nobody good reads them front to back. In a U.S. 10-K, a few sections do most of the work. Item 1, Business, explains how the company actually makes money, by segment and customer. Item 1A, Risk Factors, is mostly boilerplate, but new or reworded risks compared with last year are a signal. Item 7, MD&A, is management explaining the numbers: why margins moved, what drove growth, what worries them.\n\nThen read the notes to the financial statements, where revenue recognition, debt terms, leases and segment data live. Many analysts put this year's filing next to last year's and look only for what changed.\n\nCanadian companies file an Annual Information Form and a separate MD&A on SEDAR+, which play the same roles.",
-      "example": "Pull Costco's latest 10-K from the SEC's EDGAR site. Read only Item 1 and Item 7, then write three sentences: how it makes money, what drove growth, and what management flags as a risk. Notice how much of the profit story revolves around membership fees.",
-      "takeaway": "Read Business, Risk Factors, MD&A and the notes, and hunt for what changed."
+      "topic": "thinkers",
+      "title": "Ada Lovelace saw computing's future in 1843",
+      "body": "In the 1830s, Charles Babbage designed the Analytical Engine, a mechanical general-purpose computer that was never fully built. In 1843 Ada Lovelace, a mathematician and the daughter of the poet Lord Byron, translated an article about it by the Italian engineer Luigi Menabrea and added her own notes, which ended up far longer than the article itself.\n\nIn Note G she laid out a step-by-step method for the engine to calculate Bernoulli numbers, often called the first published computer program. More striking was her vision. Babbage saw a number cruncher; Lovelace saw that if symbols such as musical notes could be represented as numbers, the machine could manipulate them too, and might even compose music.\n\nShe also argued the engine could not originate anything, only do what it was told. Alan Turing later answered that claim directly when asking whether machines could think.",
+      "example": "Turing called it Lady Lovelace's Objection in his 1950 paper Computing Machinery and Intelligence. The same argument shows up today in debates about whether AI models are truly creative or just recombining their training data.",
+      "takeaway": "Lovelace saw that computers could manipulate any symbol, not just numbers."
     },
     {
       "id": "2026-11-02-2",
-      "topic": "running",
-      "title": "Cadence: shorter steps, happier knees",
-      "body": "Cadence is the number of steps you take per minute. The famous figure of 180 comes from coach Jack Daniels counting elite runners at the 1984 Olympics, but those were elites at race pace. There's no magic number for everyone.\n\nWhat research does support: many recreational runners overstride, landing with the foot far ahead of the body, which acts like a brake and loads the knees. Studies have found that increasing cadence by around 5 to 10 percent at the same speed shortens the stride and noticeably reduces loading at the knee and hip.\n\nIf you've had knee niggles or hear your feet slapping the ground, it's worth testing. Make the change gradually and on easy runs; most runners adapt within a few weeks.",
-      "example": "Count your steps for 30 seconds on an easy run and double it. Say you get 160. Set a metronome app to 168, about 5% higher, and match it for a few minutes at a time during easy runs this week.",
-      "takeaway": "If you overstride, raise cadence 5 to 10 percent, not to a magic 180."
+      "topic": "investing",
+      "title": "ROIC: the quality test for any business",
+      "body": "Return on invested capital asks a simple question: for every dollar tied up in the business, how much profit does it earn? It's calculated as NOPAT, or net operating profit after tax, divided by invested capital, roughly the debt and equity funding the operating assets.\n\nROIC matters because growth only creates value when returns beat the cost of capital. A company earning 20% on capital that costs 9% creates value with every dollar it reinvests. One earning 6% destroys value as it grows, even while revenue and earnings rise.\n\nBuy-side analysts look for businesses that sustain high ROIC for years, which usually signals a competitive advantage, and that still have room to reinvest at those rates. High ROIC with nowhere to reinvest is good; high ROIC with a long reinvestment runway is how compounders are made.",
+      "example": "A retailer has operating income of $500M and a 25% tax rate, so NOPAT is $375M. With invested capital of $2.5B, ROIC is 15%. If its cost of capital is 8%, each extra $100M reinvested at similar returns earns about $7M a year above what that capital costs.",
+      "takeaway": "Growth only creates value when ROIC is above the cost of capital."
     },
     {
       "id": "2026-11-02-3",
-      "topic": "recipe",
-      "title": "40 g Protein Overnight Oats",
-      "body": "A breakfast you make in four minutes the night before. In a jar, combine 1/2 cup rolled oats, 3/4 cup plain Greek yogurt, 1/2 cup milk, half a scoop of vanilla whey or plant protein, 1 tbsp chia seeds, and a pinch of cinnamon and salt. Stir hard so the powder doesn't clump, then refrigerate overnight.\n\nIn the morning, top with a spoonful of peanut butter and a handful of berries or sliced banana. The oats and chia absorb the liquid into a thick, pudding-like texture; add a splash more milk if you like it looser.\n\nMake four jars on Sunday and breakfast is handled until Thursday. Rotate flavours: cocoa powder and banana, or grated apple, cinnamon and walnuts.",
-      "example": "Approximate protein: Greek yogurt 17 g, half scoop of whey 12 g, oats 5 g, milk 4 g, chia 2 g, peanut butter 4 g. Total: about 44 g for roughly 500 calories. Skyr in place of Greek yogurt pushes it even higher.",
-      "takeaway": "Greek yogurt plus a half scoop of protein makes oats a 40 g breakfast."
+      "topic": "health",
+      "title": "Sleep is the most legal performance drug",
+      "body": "Sleep is when your body repairs muscle, consolidates the day's memories, and resets the hormones that regulate hunger and stress. Most adults need at least seven hours, and young adults often do best with more. Cutting sleep short hurts reaction time, mood, motivation and decision-making, and you're usually a poor judge of how impaired you are.\n\nAthletes give a striking demonstration. In a 2011 Stanford study led by Cheri Mah, college basketball players aimed for ten hours in bed each night for several weeks. Their sprint times got faster and their shooting accuracy improved.\n\nThe basics are unglamorous but effective: consistent sleep and wake times, even on weekends; a cool, dark room; and no caffeine from the afternoon on, since its effects can linger for many hours. Consistency matters as much as total hours.",
+      "example": "If you aim to be asleep by 11:30 pm, cut off coffee by early afternoon and set an 11:00 pm phone alarm as a cue to start winding down. Keep the same wake time for a full week, Saturday included, and notice how your runs and lifts feel.",
+      "takeaway": "Consistent, sufficient sleep improves almost everything you care about."
     },
     {
       "id": "2026-11-02-4",
-      "topic": "chess",
-      "title": "The opposition: winning king and pawn endings",
-      "body": "In king and pawn endgames, kings can never stand next to each other, so they shoulder each other for space. When the two kings face each other on a file with one square between them, the player who just moved holds the opposition, and the player to move must give way.\n\nThis matters because the side with an extra pawn usually needs its king to walk ahead of the pawn and reach key squares. The defender's whole job is to block. Whoever holds the opposition decides who gets through.\n\nA useful rule: with a non-rook pawn, if the attacking king reaches the sixth rank in front of its pawn, it wins no matter whose move it is. Before that, the opposition decides everything, so count carefully before trading into a pawn ending.",
-      "example": "White: king e5, pawn e4. Black: king e7. If Black is to move, Black must step aside, White's king reaches d6 or f6, and White wins. If White is to move, Black holds the opposition and draws.",
-      "takeaway": "When the kings face off, the side not to move holds the opposition."
+      "topic": "literature",
+      "title": "Chekhov's gun: every detail must earn its place",
+      "body": "Anton Chekhov, the Russian playwright and master of the short story, gave writers a rule that has outlived him. In letters and conversations he made the point in several forms: if a story shows a rifle hanging on the wall in the first act, it must go off later. Otherwise, take it out.\n\nThe principle is about promises. Every detail a writer includes signals importance to the reader. Details that never pay off waste attention and erode trust, while ones that do create that satisfying click when the story comes together.\n\nIt applies far beyond fiction. In an essay, a stock pitch or a presentation, every chart, statistic and anecdote should advance your argument. If a slide doesn't change what your audience believes or does, it's an unfired gun, and it should be cut.",
+      "example": "Reread a recent assignment or cover letter and highlight every detail. For each one, ask what it sets up or proves. Anything that answers \"nothing\" gets cut. Most drafts get shorter and stronger in the same move.",
+      "takeaway": "If a detail doesn't pay off, it doesn't belong."
     },
     {
       "id": "2026-11-02-5",
-      "topic": "music",
-      "icon": "note",
-      "title": "Miles Davis: Kind of Blue",
-      "body": "Recorded in two sessions in 1959, Kind of Blue is widely cited as the best-selling jazz album ever, and it might be the best place to start with jazz at all. It's calm, spacious and immediately listenable, even if you think you don't like jazz.\n\nIts secret is modal jazz. Instead of racing through fast chord changes like bebop, the tunes sit on a single scale, or mode, for long stretches. That gives soloists room to build melodies rather than run patterns. And what soloists: Miles Davis, John Coltrane, Cannonball Adderley and Bill Evans, all in one room.\n\nStart with So What, built on D Dorian; listen for Paul Chambers's bass asking a question and the horns answering with two notes. Then try Blue in Green and All Blues.",
-      "example": "Guitar crossover: D Dorian uses the same notes as C major, just starting on D. Play D–E–F–G–A–B–C–D over a D minor drone and you're in So What territory. Improvise for two minutes using only those notes.",
-      "takeaway": "Modal jazz trades fast chord changes for space to build melodies."
+      "topic": "science",
+      "title": "Why ice floats, and why life depends on it",
+      "body": "Nearly every substance is denser as a solid than as a liquid, so it sinks when it freezes. Water is a strange exception. As it cools below about 4°C, hydrogen bonds start locking its molecules into an open, hexagonal lattice that takes up more space. By the time it's ice, it's roughly 9% less dense than liquid water, so it floats.\n\nThis quirk shapes the planet. Lakes freeze from the top down, and the ice layer insulates the water beneath it. The densest water, at about 4°C, settles at the bottom, where fish survive the winter. If ice sank, lakes in cold climates could freeze solid from the bottom up.\n\nThe same expansion has a destructive side. Water seeping into cracks in rock or pavement expands as it freezes, prying them apart. That's a big part of how Canadian winters create potholes.",
+      "example": "Fill a plastic cup to the brim with water and freeze it overnight. The ice will rise above the rim, showing that expansion. It's also why a full glass bottle of water left in the freezer can crack.",
+      "takeaway": "Ice floats because water expands as it freezes, protecting life below."
     },
     {
       "id": "2026-11-02-6",
-      "topic": "economics",
-      "icon": "maple",
-      "title": "Why the Bank of Canada targets 2% inflation",
-      "body": "Canada was an inflation-targeting pioneer. In 1991, the Bank of Canada and the federal government agreed on explicit inflation targets, and since the mid-1990s the goal has been 2%, the midpoint of a 1 to 3% control range. The agreement is reviewed every five years.\n\nWhy 2% and not zero? Price indexes tend to overstate true inflation because of quality improvements and substitution. A little inflation also lets real wages adjust without nominal pay cuts, and keeps interest rates high enough that the Bank has room to cut in a recession.\n\nThe main tool is the overnight policy rate, announced eight times a year. Credibility is the real asset: if households and businesses expect 2%, their wage and price decisions tend to keep it there.",
-      "example": "Rule of 70: at 2% inflation, prices double in about 35 years (70 ÷ 2). At 5%, they double in just 14 years, which is why a few years of high inflation feel so painful.",
-      "takeaway": "A credible 2% target anchors expectations, and expectations drive inflation."
+      "topic": "philosophy",
+      "title": "The Ship of Theseus: what makes you you?",
+      "body": "The Greek writer Plutarch described a puzzle about the ship of the hero Theseus, preserved by the Athenians for generations. As its planks rotted, each was replaced with new timber. Eventually not one original plank remained. Was it still the same ship?\n\nThomas Hobbes added a twist: suppose someone collected all the old planks and rebuilt the original. Now there are two ships. Which one is the real Ship of Theseus?\n\nThe puzzle matters because it's about identity over time, including yours. Much of your body is renewed over the years, and your beliefs, tastes and friendships change. Some philosophers locate identity in continuity of form and function; others in psychological links like memory. It applies to institutions too: is a company the same company once every employee and product has changed?",
+      "example": "Consider a band that has replaced every original member, or a fund whose founder has retired and whose team has fully turned over. Investors face this question directly: is the track record still meaningful if the people and process behind it are gone?",
+      "takeaway": "Identity may live in continuity and pattern, not in the original parts."
     }
   ],
   "quiz": [
     {
-      "question": "Which 10-K section is management's own explanation of the year's results?",
-      "options": ["Item 1, Business", "Item 1A, Risk Factors", "Item 7, MD&A", "The auditor's report"],
-      "answer": 2,
-      "explanation": "Management's Discussion and Analysis is where management explains what drove results and what concerns them."
-    },
-    {
-      "question": "What does raising cadence 5 to 10 percent at the same speed tend to do?",
-      "options": ["Shorten the stride and reduce loading at the knee and hip", "Lengthen the stride and increase speed", "Raise heart rate dramatically", "Nothing measurable"],
-      "answer": 0,
-      "explanation": "More steps at the same speed means shorter steps, less overstriding and less braking load."
-    },
-    {
-      "question": "Which two ingredients provide most of the protein in the overnight oats?",
-      "options": ["Oats and chia", "Milk and peanut butter", "Berries and banana", "Greek yogurt and protein powder"],
+      "question": "What was Ada Lovelace's most far-reaching insight about the Analytical Engine?",
+      "options": ["It could be built from electrical circuits", "It would replace human mathematicians", "It could only perform addition", "If symbols like musical notes were represented as numbers, it could manipulate them too"],
       "answer": 3,
-      "explanation": "Greek yogurt (about 17 g) and half a scoop of protein (about 12 g) do the heavy lifting."
+      "explanation": "Babbage saw a calculator; Lovelace saw a general symbol-manipulating machine, the core idea of modern computing.",
+      "review": false
     },
     {
-      "question": "The kings face each other on a file with one square between them. Who holds the opposition?",
-      "options": ["The player to move", "The player who just moved", "Whoever has more pawns", "Whoever's king is closer to the centre"],
+      "question": "A company earns a 6% ROIC and has a 9% cost of capital. What happens as it reinvests to grow?",
+      "options": ["It creates value because revenue rises", "It destroys value, because each reinvested dollar earns less than it costs", "Nothing, since ROIC doesn't affect value", "It creates value as long as earnings grow"],
       "answer": 1,
-      "explanation": "The player to move must give way, so the player who just moved has the opposition."
+      "explanation": "Growth only creates value when returns exceed the cost of capital; at 6% vs 9%, every dollar reinvested loses value.",
+      "review": false
     },
     {
-      "question": "What defines the modal approach on Kind of Blue?",
-      "options": ["Very fast chord changes", "No improvisation at all", "Long stretches on a single scale instead of rapid chord changes", "Using only the blues scale"],
-      "answer": 2,
-      "explanation": "Modal tunes sit on one mode for long stretches, giving soloists room to build melodies."
-    },
-    {
-      "question": "Why does the Bank of Canada aim for 2% inflation rather than 0%?",
-      "options": ["Measured inflation overstates true price changes, and some inflation leaves room to cut rates", "Zero inflation is illegal under Canadian law", "2% maximizes government tax revenue", "The U.S. Federal Reserve requires it"],
+      "question": "What did Cheri Mah's study find when basketball players extended their sleep?",
+      "options": ["Sprint times got faster and shooting accuracy improved", "Players gained weight but performed the same", "Performance dropped from oversleeping", "Only reaction time changed"],
       "answer": 0,
-      "explanation": "Measurement bias, wage flexibility and room for rate cuts all argue for a small positive target."
+      "explanation": "Aiming for ten hours in bed for several weeks improved both speed and shooting.",
+      "review": false
+    },
+    {
+      "question": "In a stock pitch, what does following Chekhov's gun mean?",
+      "options": ["Open with your most dramatic statistic", "Include every data point you found to show effort", "Cut any chart or fact that doesn't advance your argument", "Save your recommendation for the very end"],
+      "answer": 2,
+      "explanation": "Every detail should pay off; anything that doesn't support the thesis wastes your audience's attention.",
+      "review": false
+    },
+    {
+      "question": "Why do lakes freeze from the top down?",
+      "options": ["Wind cools the surface faster than the bottom", "Ice is less dense than liquid water, so it floats", "Salt sinks to the bottom and prevents freezing", "The lake bed heats the water from below"],
+      "answer": 1,
+      "explanation": "Water expands as it freezes, so ice floats and insulates the denser, roughly 4°C water beneath it.",
+      "review": false
+    },
+    {
+      "question": "What was Hobbes's twist on the Ship of Theseus?",
+      "options": ["The ship sank and was never found", "Theseus refused to replace any planks", "Plutarch made the story up", "The old planks are rebuilt into a second ship, raising the question of which is the real one"],
+      "answer": 3,
+      "explanation": "With two candidate ships, it becomes much harder to say whether identity follows the parts or the continuity.",
+      "review": false
     }
   ]
 }

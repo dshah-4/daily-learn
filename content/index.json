@@ -22,115 +22,115 @@
                  {
                      "date":  "2026-10-30",
                      "topics":  [
+                                    "psychology",
                                     "economics",
+                                    "science",
                                     "weightlifting",
-                                    "guitar",
-                                    "book",
-                                    "canadian-finance",
-                                    "investing"
+                                    "business",
+                                    "book"
                                 ],
                      "titles":  [
-                                    "The Taylor rule: a central banker\u0027s cheat sheet",
-                                    "Double progression: the simplest way to keep growing",
-                                    "CAGED: five shapes that unlock the neck",
-                                    "The Most Important Thing by Howard Marks",
-                                    "TFSA or RRSP first? Follow your tax bracket",
-                                    "Economic moats: why some profits survive"
+                                    "The spotlight effect: fewer people noticed",
+                                    "Stagflation: the decade the Phillips curve broke",
+                                    "Why the sky is blue and sunsets are red",
+                                    "Rest longer between sets to grow more",
+                                    "Razor and blades: cheap to start, costly to keep",
+                                    "The Psychology of Money by Morgan Housel"
                                 ]
                  },
                  {
                      "date":  "2026-10-31",
                      "topics":  [
+                                    "history",
                                     "investing",
-                                    "running",
-                                    "recipe",
+                                    "geography",
                                     "music",
-                                    "chess",
-                                    "wildcard"
+                                    "language",
+                                    "mental-models"
                                 ],
                      "titles":  [
-                                    "EV/EBITDA: compare businesses, not balance sheets",
-                                    "Strides: 20 seconds to faster legs",
-                                    "Pumpkin, Lentil \u0026 Black Bean Chili",
-                                    "Radiohead: In Rainbows",
-                                    "The knight fork: chess\u0027s sneakiest weapon",
-                                    "The first jack-o\u0027-lanterns were turnips"
+                                    "Samhain: the Celtic night behind Halloween",
+                                    "Enterprise value: the price of the whole business",
+                                    "Point Nemo: the loneliest spot in the ocean",
+                                    "Fleetwood Mac: Rumours",
+                                    "OK began as a newspaper joke in 1839",
+                                    "Inversion: solve problems backwards"
                                 ]
                  },
                  {
                      "date":  "2026-11-01",
                      "topics":  [
-                                    "economics",
-                                    "weightlifting",
-                                    "philosophy",
-                                    "guitar",
-                                    "canadian-finance",
-                                    "book"
+                                    "technology",
+                                    "running",
+                                    "art-design",
+                                    "recipe",
+                                    "relationships",
+                                    "chess"
                                 ],
                      "titles":  [
-                                    "Comparative advantage: why trade isn\u0027t zero-sum",
-                                    "Reps in reserve: train hard without guessing",
-                                    "Aristotle: you become what you practise",
-                                    "The minor pentatonic: your first solo map",
-                                    "Credit scores: what really moves yours",
-                                    "Thinking, Fast and Slow by Daniel Kahneman"
+                                    "Moore\u0027s law: the forecast that built tech",
+                                    "Hill repeats: speed work in disguise",
+                                    "Negative space: the hidden arrow in FedEx",
+                                    "Red Lentil Dal with a Greek Yogurt Finish",
+                                    "Bids for connection: small moments, big stakes",
+                                    "The back-rank mate: give your king air"
                                 ]
                  },
                  {
                      "date":  "2026-11-02",
                      "topics":  [
+                                    "thinkers",
                                     "investing",
-                                    "running",
-                                    "recipe",
-                                    "chess",
-                                    "music",
-                                    "economics"
+                                    "health",
+                                    "literature",
+                                    "science",
+                                    "philosophy"
                                 ],
                      "titles":  [
-                                    "Reading a 10-K: where to actually look",
-                                    "Cadence: shorter steps, happier knees",
-                                    "40 g Protein Overnight Oats",
-                                    "The opposition: winning king and pawn endings",
-                                    "Miles Davis: Kind of Blue",
-                                    "Why the Bank of Canada targets 2% inflation"
+                                    "Ada Lovelace saw computing\u0027s future in 1843",
+                                    "ROIC: the quality test for any business",
+                                    "Sleep is the most legal performance drug",
+                                    "Chekhov\u0027s gun: every detail must earn its place",
+                                    "Why ice floats, and why life depends on it",
+                                    "The Ship of Theseus: what makes you you?"
                                 ]
                  },
                  {
                      "date":  "2026-11-03",
                      "topics":  [
-                                    "investing",
+                                    "history",
                                     "weightlifting",
                                     "canadian-finance",
-                                    "philosophy",
+                                    "nutrition",
                                     "guitar",
-                                    "wildcard"
+                                    "productivity"
                                 ],
                      "titles":  [
-                                    "WACC: the hurdle every investment must clear",
-                                    "Protein: how much actually builds muscle",
-                                    "The FHSA: the best tax deal for a first home",
-                                    "Hume\u0027s guillotine: you can\u0027t get ought from is",
-                                    "Learn the notes on the low E string",
-                                    "The Lindy effect: old ideas tend to last"
+                                    "The Great Stink that gave London its sewers",
+                                    "The Romanian deadlift: hinge, don\u0027t squat",
+                                    "TFSA withdrawals: why timing matters",
+                                    "Fibre: the nutrient most people quietly miss",
+                                    "The F barre chord without the pain",
+                                    "Parkinson\u0027s law: work expands to fill the time"
                                 ]
                  },
                  {
                      "date":  "2026-11-04",
                      "topics":  [
-                                    "economics",
-                                    "running",
+                                    "wildcard",
+                                    "investing",
+                                    "psychology",
                                     "recipe",
-                                    "book",
-                                    "chess",
-                                    "investing"
+                                    "business",
+                                    "language"
                                 ],
                      "titles":  [
-                                    "The yield curve: the bond market\u0027s recession alarm",
-                                    "The long run: your weekly cornerstone",
-                                    "Sheet-Pan Paneer Tikka with Chickpeas",
-                                    "Meditations by Marcus Aurelius",
-                                    "The Italian Game: an opening to own",
-                                    "Margin of safety: room to be wrong"
+                                    "Octopuses have three hearts and blue blood",
+                                    "Margin of safety: Graham\u0027s three-word secret",
+                                    "The IKEA effect: we overvalue what we build",
+                                    "Chickpea Shakshuka with Feta",
+                                    "Network effects: why winners take most",
+                                    "Why English spelling makes so little sense"
                                 ]
                  }
              ]

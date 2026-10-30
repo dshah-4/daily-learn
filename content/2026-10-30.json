@@ -3,91 +3,95 @@
   "cards": [
     {
       "id": "2026-10-30-1",
-      "topic": "economics",
-      "title": "The Taylor rule: a central banker's cheat sheet",
-      "body": "In 1993, Stanford economist John Taylor proposed a simple formula that described how the Federal Reserve had actually been setting rates. The policy rate equals the neutral real rate plus current inflation, plus half the gap between inflation and target, plus half the output gap.\n\nThe logic: when inflation runs above target, raise rates by more than inflation rose, so real rates climb and demand cools. When the economy runs below capacity, ease off. No central bank follows the rule mechanically, and the neutral rate can't be observed directly, so estimates vary widely.\n\nStill, markets and analysts use it as a benchmark to judge whether policy is tight or loose. For an investor, the gap between the actual policy rate and a Taylor-rule estimate is a quick read on where rates might head.",
-      "example": "Assume a 1% neutral real rate, 3% inflation, a 2% target and a zero output gap. Rate = 1 + 3 + 0.5 × (3 − 2) + 0.5 × 0 = 4.5%. If the central bank is sitting at 3.5%, policy looks loose by this yardstick.",
-      "takeaway": "When inflation rises, the Taylor rule says rates should rise even more."
+      "topic": "psychology",
+      "title": "The spotlight effect: fewer people noticed",
+      "body": "You trip on the stairs, say something awkward in class, or show up with a bad haircut, and it feels like everyone noticed. They mostly didn't. Psychologists call this the spotlight effect: we overestimate how much attention other people pay to our appearance and our mistakes.\n\nThe classic demonstration came from Thomas Gilovich and colleagues in 2000. Students walked into a room wearing a T-shirt with Barry Manilow's face on it, which they found embarrassing. They guessed that about half the people in the room would notice the shirt. In reality, only about a quarter did.\n\nThe reason is simple: everyone else is busy starring in their own movie. You are the centre of your attention, not theirs. Knowing this makes it easier to ask the question, take the shot, or try the new thing.",
+      "example": "In a seminar you ask a question you worry is obvious. Afterwards, ask a friend whether they remember it. Odds are they barely do, because they were thinking about their own question. Try one small test this week: speak up once where you'd normally stay quiet.",
+      "takeaway": "Everyone is the star of their own movie, not an audience for yours."
     },
     {
       "id": "2026-10-30-2",
-      "topic": "weightlifting",
-      "title": "Double progression: the simplest way to keep growing",
-      "body": "Muscle and strength adapt to the demands you place on them, so the demand has to keep rising. That's progressive overload. The trick is doing it without guesswork, and double progression is the cleanest system.\n\nPick a rep range, say 8 to 12. Use a weight you can lift for at least 8 good reps on every set. Each session, try to add reps. When you hit the top of the range on all sets with solid form, increase the load by the smallest jump available and drop back toward 8. Repeat.\n\nIt works because it progresses two variables, reps and load, so you're rarely stuck. Log every set in a notebook or app. If you can't see last week's numbers, you can't beat them, and many stalled lifters simply aren't tracking.",
-      "example": "Dumbbell bench, 3 sets of 8 to 12 with 25 kg dumbbells. Week 1: 10, 9, 8. Week 3: 12, 12, 12. Week 4: move to 27.5 kg and start again at around 8 reps per set.",
-      "takeaway": "Add reps until you top out the range, then add weight."
+      "topic": "economics",
+      "title": "Stagflation: the decade the Phillips curve broke",
+      "body": "In 1958 the economist A. W. Phillips showed that, in Britain, periods of low unemployment tended to come with faster wage growth. Policymakers soon read it as a menu: accept a bit more inflation and you could buy lower unemployment.\n\nMilton Friedman and Edmund Phelps argued in the late 1960s that the trade-off was only temporary. Once workers and firms expect higher inflation, they build it into wages and prices, and unemployment drifts back to its natural rate, now with more inflation baked in.\n\nThe 1970s proved them right. Oil shocks and entrenched expectations brought double-digit inflation alongside rising unemployment in both Canada and the United States, a combination dubbed stagflation. Breaking it took brutal rate hikes and a deep recession in the early 1980s. The lasting lesson: inflation expectations are what central banks fight hardest to anchor.",
+      "example": "In 1981 the US Federal Reserve under Paul Volcker pushed its policy rate to around 20%, and the Bank of Canada's rate also topped 20% that year. Inflation fell sharply over the next few years, but unemployment in both countries climbed above 10% in the 1982 recession.",
+      "takeaway": "You can't buy lasting low unemployment with inflation; expectations catch up."
     },
     {
       "id": "2026-10-30-3",
-      "topic": "guitar",
-      "title": "CAGED: five shapes that unlock the neck",
-      "body": "Every open major chord you know, C, A, G, E and D, is really a movable shape. The CAGED system shows that these five shapes link together like puzzle pieces along the fretboard, each sharing notes with the next.\n\nTake any chord and you can play it in five places, moving up the neck through the shapes in C-A-G-E-D order, then looping back around. The root note is your anchor: find the root, and you know which shape fits around it.\n\nWhy it matters: instead of being stuck in one position, you can play the same chord higher for a brighter voicing, find solo notes near any chord, and finally see the neck as one connected map instead of disconnected boxes. Learn the shapes slowly, one neighbouring pair at a time.",
-      "example": "C major five ways: the open C shape; the A shape barred at the 3rd fret; the G shape around frets 5 to 8; the E shape barred at the 8th fret; the D shape with its root on the 4th string, 10th fret. Play them in order up the neck.",
-      "takeaway": "Five open chord shapes are really one connected map of the neck."
+      "topic": "science",
+      "title": "Why the sky is blue and sunsets are red",
+      "body": "Sunlight looks white but contains every colour. As it passes through the atmosphere, it bounces off nitrogen and oxygen molecules far smaller than the light's wavelength. This is Rayleigh scattering, and its strength rises steeply as wavelength gets shorter, roughly with the inverse fourth power.\n\nThat makes blue light, with its short wavelength, scatter around five to six times more than red. Look at any patch of sky away from the sun and you're seeing blue light that has been bounced toward your eyes from every direction.\n\nWhy not violet, which is even shorter? The sun emits less of it, some is absorbed high in the atmosphere, and our eyes are less sensitive to it. At sunset, light travels through far more air to reach you, so most of the blue is scattered away before it arrives, leaving the oranges and reds.",
+      "example": "Compare blue light at about 450 nanometres with red at about 700. The ratio is 700 / 450 ≈ 1.56, and 1.56 to the fourth power is about 5.9, so blue scatters nearly six times as strongly. Next clear evening, notice how the sky overhead stays blue while the horizon near the sun turns orange.",
+      "takeaway": "Short wavelengths scatter most: blue by day, red when light crosses more air."
     },
     {
       "id": "2026-10-30-4",
-      "topic": "book",
-      "title": "The Most Important Thing by Howard Marks",
-      "body": "Howard Marks co-founded Oaktree Capital, one of the world's largest credit investors, and his client memos are so respected that Warren Buffett has said they're the first thing he opens when they arrive. This 2011 book distils those memos into short chapters, each on one thing Marks calls the most important.\n\nThe core idea is second-level thinking. First-level thinkers say a company is great, so buy. Second-level thinkers ask what the consensus already expects, what's priced in, and how they could be different and right. Marks also writes brilliantly about risk as the chance of permanent loss rather than volatility, and about knowing where we stand in the cycle.\n\nFor anyone aiming at the buy side, it's the closest thing to a mindset manual.",
-      "example": "Start with Chapter 1, Second-Level Thinking. Then read a recent memo, free on Oaktree's website, and try to spot the same ideas applied to today's market.",
-      "takeaway": "Being right isn't enough; you have to be right when the consensus is wrong."
+      "topic": "weightlifting",
+      "title": "Rest longer between sets to grow more",
+      "body": "Short rest periods feel hardcore, but for building muscle and strength they usually cost you. When you rest only a minute, you start the next set still fatigued, so you complete fewer reps with the same weight. Over a workout that means less total work, and total work is a main driver of growth.\n\nA 2016 study by Brad Schoenfeld and colleagues had trained men follow the same program with either one-minute or three-minute rests. The three-minute group gained more strength and, on several measures, more muscle thickness.\n\nA practical rule: rest two to three minutes on big compound lifts like squats, bench and rows, and one to two minutes on smaller isolation work like curls and lateral raises. If you're short on time, pair exercises that don't compete, like a press and a row, and alternate between them.",
+      "example": "This week on bench press, time your rests with your phone: a full 2.5 minutes between sets. If you normally get 8, 6 and 5 reps with 70 kg on short rests, see whether you can hold 8, 8 and 7 instead. Those extra reps are extra growth stimulus.",
+      "takeaway": "Rest long enough on big lifts that every set is a quality set."
     },
     {
       "id": "2026-10-30-5",
-      "topic": "canadian-finance",
-      "icon": "maple",
-      "title": "TFSA or RRSP first? Follow your tax bracket",
-      "body": "Both accounts shelter investments from tax, but they work in opposite directions. RRSP contributions are deducted from your income now and taxed when you withdraw. TFSA contributions come from after-tax money, but growth and withdrawals are tax-free.\n\nSo the real question is whether your tax rate is higher now or later. As a student with modest income, your marginal rate is low, so an RRSP deduction is worth little today and a TFSA usually makes more sense. Your TFSA room started accumulating the year you turned 18, and unused room carries forward.\n\nRRSP room is 18% of the previous year's earned income, up to an annual maximum, and it carries forward too. You can even contribute now and save the deduction for a future higher-income year.",
-      "example": "If you turned 18 in 2024, you gained $7,000 of TFSA room that year and another $7,000 in 2025. A $1,000 RRSP deduction might save a student $200 or less in tax, but over $400 for someone earning $120,000 in Ontario.",
-      "takeaway": "Low income now? TFSA first; save RRSP deductions for higher-earning years."
+      "topic": "business",
+      "title": "Razor and blades: cheap to start, costly to keep",
+      "body": "Some of the most profitable businesses sell their main product at little or no profit and make their money on what you must keep buying. Think inkjet printers and ink cartridges, coffee machines and pods, or game consoles and games.\n\nThe model works when three things hold. The upfront product must lock you into a consumable or add-on. The consumable must be bought repeatedly at a healthy margin. And switching away must be annoying or costly, through proprietary designs, patents or a library you've built up.\n\nFor an investor, this changes how you read the numbers. A segment showing thin margins may be the deliberate cost of acquiring customers, while the real value sits in the recurring stream. The key question is how durable the lock-in is, because if cheap compatible refills arrive, the whole model can unravel.",
+      "example": "Video game consoles have often launched at or below cost, with the platform owner earning a fee on each game sold and on online subscriptions. So the number to watch isn't console margin but how much each console owner spends on games and subscriptions over the console's life.",
+      "takeaway": "Look past the product on the shelf to the stream it locks in."
     },
     {
       "id": "2026-10-30-6",
-      "topic": "investing",
-      "icon": "target",
-      "title": "Economic moats: why some profits survive",
-      "body": "In a competitive market, high returns attract rivals until profits fall back to normal. A moat is whatever stops that from happening. Warren Buffett popularized the term, and Morningstar later built a framework around five main sources: network effects, switching costs, intangible assets like brands, patents and licences, cost advantages, and efficient scale.\n\nThe evidence for a moat isn't a great story; it's numbers. Look for return on invested capital that stays well above the cost of capital for many years, through good and bad parts of the cycle. If ROIC is high but sliding fast, the moat may be draining.\n\nThe best investments often combine a wide moat with a long runway to reinvest at those high returns. That's where compounding really happens.",
-      "example": "Canada's two Class I railways, CN and CPKC, enjoy efficient scale: nobody can realistically build a third transcontinental network, so their strong margins have persisted for years despite being in a capital-heavy industry.",
-      "takeaway": "A moat shows up as returns on capital that stay high for years."
+      "topic": "book",
+      "title": "The Psychology of Money by Morgan Housel",
+      "body": "Most finance books teach you what to do. Morgan Housel's 2020 book is about why people, including smart ones, don't do it. Its argument is that doing well with money depends less on intelligence and more on behaviour: patience, humility, and knowing when you have enough.\n\nThe book is a series of short chapters, each built around one story and one idea, which makes it ideal for reading in small sessions. Housel covers why compounding is so counterintuitive, why rare tail events drive most outcomes, and why saving without a specific goal is still worth it.\n\nFor someone heading toward the buy-side, it's a useful counterweight to spreadsheets. Valuation tells you what something is worth; this book explains why markets, clients and you yourself will so often act differently.",
+      "example": "Start with chapter 1, No One's Crazy, which argues that everyone's financial decisions make sense given their own experiences. It's short, and it changes how you interpret other investors' seemingly irrational choices.",
+      "takeaway": "Wealth is mostly a behaviour problem, not a knowledge problem."
     }
   ],
   "quiz": [
     {
-      "question": "Using the Taylor rule with a 1% neutral real rate, 4% inflation, a 2% target and a zero output gap, what should the policy rate be?",
-      "options": ["4%", "5%", "7%", "6%"],
-      "answer": 3,
-      "explanation": "1 + 4 + 0.5 × (4 − 2) + 0 = 6%."
+      "question": "In Gilovich's T-shirt study, what did the participants get wrong?",
+      "options": ["They underestimated how many people would notice the shirt", "They thought the shirt was more fashionable than observers did", "They overestimated how many people would notice the shirt", "They forgot which shirt they were wearing"],
+      "answer": 2,
+      "explanation": "Wearers guessed about half the room would notice; only about a quarter did. We overestimate how much others watch us.",
+      "review": false
     },
     {
-      "question": "Your program says 3 × 8–12. You just hit 12, 12, 12. What does double progression tell you to do next?",
-      "options": ["Increase the weight and drop back toward 8 reps", "Add a fourth set at the same weight", "Keep going until you reach 15 reps", "Take a deload week"],
+      "question": "According to Friedman and Phelps, why does the Phillips curve trade-off fade over time?",
+      "options": ["Workers and firms come to expect the higher inflation and build it into wages and prices", "Central banks always raise rates when unemployment falls", "Oil prices eventually rise and offset the effect", "Governments stop measuring unemployment accurately"],
       "answer": 0,
-      "explanation": "Topping out the range on every set is the signal to add the smallest load jump and rebuild the reps."
+      "explanation": "Once higher inflation is expected, it is priced into wages and prices, so unemployment returns to its natural rate with inflation left higher.",
+      "review": false
     },
     {
-      "question": "In the CAGED system, what helps you know which shape to use at a given spot on the neck?",
-      "options": ["The open strings", "The highest fret you can reach", "The location of the root note", "The chord's fifth"],
-      "answer": 2,
-      "explanation": "Each shape is built around a root note; find the root and the matching shape fits around it."
+      "question": "Why does the sky near the setting sun look orange and red?",
+      "options": ["The sun emits more red light in the evening", "Red light scatters more strongly than blue", "Clouds absorb blue light near dusk", "Light passes through much more air, so most blue is scattered away before reaching you"],
+      "answer": 3,
+      "explanation": "At sunset the light's path through the atmosphere is far longer, so short blue wavelengths are scattered out, leaving longer red and orange ones.",
+      "review": false
     },
     {
-      "question": "What is Howard Marks's second-level thinking?",
-      "options": ["Reading a company's financial statements twice", "Asking what the consensus expects and how your view differs", "Buying only after a stock has fallen twice", "Checking your thesis with a second analyst"],
+      "question": "Why do longer rests between heavy sets tend to build more muscle?",
+      "options": ["They keep heart rate higher", "They let you complete more reps per set, increasing total work", "They burn more calories per session", "They reduce how much protein you need"],
       "answer": 1,
-      "explanation": "Outperforming requires a view that's different from the consensus and more accurate, not just a good company."
+      "explanation": "Starting each set less fatigued means more reps at the same weight, and more total work drives more growth.",
+      "review": false
     },
     {
-      "question": "Why is a TFSA often a better first choice than an RRSP for a low-income student?",
-      "options": ["TFSA contributions are tax-deductible", "RRSPs can't be opened before age 25", "An RRSP deduction is worth little at a low marginal tax rate", "TFSA room disappears if not used each year"],
-      "answer": 2,
-      "explanation": "The RRSP's value comes from the deduction, which saves more tax at higher marginal rates later in life."
+      "question": "A printer maker's hardware segment shows near-zero margins. Under a razor-and-blades model, what matters most to analyse?",
+      "options": ["The cost of shipping printers", "How quickly printer prices fall", "The number of printer models offered", "How durable the ink lock-in is against cheaper compatible cartridges"],
+      "answer": 3,
+      "explanation": "The printer is the customer-acquisition cost; the value is in recurring ink sales, which only last if customers stay locked in.",
+      "review": false
     },
     {
-      "question": "Which is the strongest evidence that a company has an economic moat?",
-      "options": ["A fast-growing share price", "A well-known brand name", "Return on invested capital above the cost of capital for many years", "A large market share this year"],
-      "answer": 2,
-      "explanation": "A moat is visible in persistently high returns that competition hasn't eroded, not in a story or a single year."
+      "question": "What is the central argument of The Psychology of Money?",
+      "options": ["Financial success depends more on behaviour than on intelligence", "Index funds always beat active managers", "Budgeting apps are the key to building wealth", "You need advanced maths to invest well"],
+      "answer": 0,
+      "explanation": "Housel argues that patience, humility and knowing when you have enough matter more than technical skill.",
+      "review": false
     }
   ]
 }

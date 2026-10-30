@@ -8,6 +8,7 @@ sw.js  manifest.webmanifest  icons/   PWA bits
 content/YYYY-MM-DD.json            one file per day
 content/index.json                 list of days (for the Archive tab)
 CONTENT_GUIDE.md                   rules for writing lessons
+FEEDBACK.md                        your notes ("more history", "less chess") for the next batch
 .claude/commands/generate-week.md  the /generate-week slash command
 tools/build-index.ps1              validates content + rebuilds index.json
 tools/serve.ps1                    local preview server
@@ -31,7 +32,7 @@ In Claude Code, from this folder, run:
 /generate-week
 ```
 
-It reads `CONTENT_GUIDE.md`, checks past titles to avoid repeats, writes the next 7 days, validates them, and commits + pushes. GitHub Pages redeploys automatically about a minute later.
+It reads `CONTENT_GUIDE.md` and your notes in `FEEDBACK.md`, checks past titles to avoid repeats, writes the next 7 days, validates them, and commits + pushes. GitHub Pages redeploys automatically about a minute later.
 
 ## Publish on GitHub Pages (one-time)
 

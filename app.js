@@ -7,7 +7,8 @@
    ========================================================= */
 
 const TOPICS = {
-  investing:          { label: 'Investing',      color: '#2ee59d', icon: 'chart' },
+  // The learner's interests (~40% of cards)
+  investing:         { label: 'Investing',      color: '#2ee59d', icon: 'chart' },
   economics:          { label: 'Economics',      color: '#4d8dff', icon: 'globe' },
   'canadian-finance': { label: 'CDN Finance',    color: '#ff4d5e', icon: 'maple' },
   running:            { label: 'Running',        color: '#ff8a3d', icon: 'shoe' },
@@ -18,7 +19,23 @@ const TOPICS = {
   philosophy:         { label: 'Philosophy',     color: '#e8d5b5', icon: 'column' },
   book:               { label: 'Book Pick',      color: '#b6f03c', icon: 'book' },
   chess:              { label: 'Chess',          color: '#d9dce3', icon: 'knight' },
-  wildcard:           { label: 'Wildcard',       color: '#7cf0ff', icon: 'spark' },
+  // Broadening topics (~60% of cards)
+  psychology:         { label: 'Psychology',     color: '#c792ea', icon: 'brain' },
+  history:            { label: 'History',        color: '#d9a066', icon: 'hourglass' },
+  science:            { label: 'Science',        color: '#4fc3f7', icon: 'flask' },
+  health:             { label: 'Health',         color: '#ff6b8b', icon: 'heart' },
+  nutrition:          { label: 'Nutrition',      color: '#8ee06a', icon: 'apple' },
+  technology:         { label: 'Tech',           color: '#7aa2ff', icon: 'chip' },
+  'art-design':       { label: 'Art & Design',   color: '#ff9ad5', icon: 'palette' },
+  literature:         { label: 'Literature',     color: '#f2c48d', icon: 'quill' },
+  geography:          { label: 'Geography',      color: '#5fd38d', icon: 'compass' },
+  language:           { label: 'Language',       color: '#ffb86b', icon: 'speech' },
+  productivity:       { label: 'Productivity',   color: '#f5e663', icon: 'timer' },
+  relationships:      { label: 'Relationships',  color: '#ff8f8f', icon: 'people' },
+  thinkers:           { label: 'Great Thinkers', color: '#cfc2ff', icon: 'bulb' },
+  'mental-models':    { label: 'Mental Models',  color: '#66e0c2', icon: 'target' },
+  business:           { label: 'Business',       color: '#9ad0ff', icon: 'briefcase' },
+  wildcard:          { label: 'Wildcard',       color: '#7cf0ff', icon: 'spark' },
 };
 const FALLBACK_TOPIC = { label: 'Lesson', color: '#f4f4f6', icon: 'spark' };
 const topicOf = (key) => TOPICS[key] || FALLBACK_TOPIC;
@@ -45,6 +62,18 @@ const ICONS = {
   bowl: '<path d="M6 24h36a18 15 0 0 1-36 0zM16 41h16M18 18c0-3 3-3 3-6M26 18c0-3 3-3 3-6"/>',
   timer: '<circle cx="24" cy="27" r="15"/><path d="M24 27v-7M20 6h8M24 6v6"/>',
   brain: '<path d="M20 8a6 6 0 0 0-6 6 6 6 0 0 0-5 9 6 6 0 0 0 3 10 6 6 0 0 0 8 7V8zM28 8a6 6 0 0 1 6 6 6 6 0 0 1 5 9 6 6 0 0 1-3 10 6 6 0 0 1-8 7V8z"/>',
+  hourglass: '<path d="M13 6h22M13 42h22M15 6c0 10 9 13 9 18s-9 8-9 18M33 6c0 10-9 13-9 18s9 8 9 18M19 37h10"/>',
+  flask: '<path d="M19 6h10M21 6v13L9 39a3 3 0 0 0 3 4h24a3 3 0 0 0 3-4L27 19V6M14 31h20"/>',
+  heart: '<path d="M24 41S7 30 7 18a9 9 0 0 1 17-4 9 9 0 0 1 17 4c0 12-17 23-17 23z"/>',
+  apple: '<path d="M24 15c-4-3-14-3-16 6-2 10 5 21 10 21 3 0 4-1 6-1s3 1 6 1c5 0 12-11 10-21-2-9-12-9-16-6zM24 15c0-4 2-7 6-9"/>',
+  chip: '<rect x="13" y="13" width="22" height="22" rx="2"/><rect x="19" y="19" width="10" height="10"/><path d="M19 6v7M29 6v7M19 35v7M29 35v7M6 19h7M6 29h7M35 19h7M35 29h7"/>',
+  palette: '<path d="M24 6C13 6 6 14 6 23c0 9 7 15 14 15 3 0 4-2 3-4s0-5 3-5h6c6 0 10-4 10-10C42 12 34 6 24 6z"/><circle cx="15" cy="21" r="2"/><circle cx="22" cy="14" r="2"/><circle cx="31" cy="15" r="2"/>',
+  quill: '<path d="M40 6C26 8 15 18 12 34l-4 8M12 34c12-2 22-12 28-28M18 26h9"/>',
+  compass: '<circle cx="24" cy="24" r="17"/><path d="M31 17l-4 10-10 4 4-10z"/>',
+  speech: '<path d="M8 10h32a2 2 0 0 1 2 2v20a2 2 0 0 1-2 2H22l-9 7v-7H8a2 2 0 0 1-2-2V12a2 2 0 0 1 2-2zM14 20h20M14 26h12"/>',
+  people: '<circle cx="17" cy="16" r="6"/><circle cx="33" cy="18" r="5"/><path d="M5 40c0-7 5-12 12-12s12 5 12 12M29 29c7-1 14 3 14 11"/>',
+  bulb: '<path d="M18 33c0-5-7-8-7-16a13 13 0 0 1 26 0c0 8-7 11-7 16zM19 38h10M21 43h6"/>',
+  briefcase: '<rect x="6" y="14" width="36" height="25" rx="3"/><path d="M18 14v-4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v4M6 25h36M22 25v4h4v-4"/>',
 };
 const icon = (name) =>
   `<svg viewBox="0 0 48 48" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${ICONS[name] || ICONS.spark}</svg>`;

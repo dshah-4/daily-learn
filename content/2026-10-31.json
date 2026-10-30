@@ -3,92 +3,95 @@
   "cards": [
     {
       "id": "2026-10-31-1",
-      "topic": "investing",
-      "icon": "scale",
-      "title": "EV/EBITDA: compare businesses, not balance sheets",
-      "body": "The P/E ratio compares price to earnings for shareholders only, so debt distorts it. A company loaded with debt has higher interest costs, lower net income and a different P/E, even if the business underneath is identical. Enterprise value fixes this.\n\nEV is roughly what it would cost to buy the whole business: market cap plus debt, minus cash, plus preferred shares and minority interests if any. EBITDA is earnings before interest, taxes, depreciation and amortization, a rough proxy for operating profit available to all capital providers. Because both sides include lenders, EV/EBITDA lets you compare companies with different leverage.\n\nIts weakness: EBITDA ignores the cost of replacing assets. For capital-heavy businesses like telecoms or airlines, check EV/EBIT or EV/FCF as well.",
-      "example": "Company A: $1,000M market cap, no debt, $125M EBITDA, so 8.0x. Company B: $600M market cap, $400M of net debt, $125M EBITDA. Its EV is also $1,000M, so it's also 8.0x. Same business value, very different equity values.",
-      "takeaway": "Use EV-based multiples when companies carry different amounts of debt."
+      "topic": "history",
+      "title": "Samhain: the Celtic night behind Halloween",
+      "body": "Long before costumes and candy, Gaelic peoples in Ireland and Scotland marked Samhain, a festival around October 31 and November 1 that closed the harvest and opened the dark half of the year. It was believed to be a time when the boundary between this world and the otherworld thinned, so spirits and fairies could cross over.\n\nCommunities lit bonfires, and in later centuries people went guising: dressing in disguise and going door to door, sometimes performing in exchange for food. Meanwhile, the church had set November 1 as All Saints', or All Hallows', Day, making October 31 All Hallows' Eve, later shortened to Halloween.\n\nIrish and Scottish immigrants brought these customs to North America in the 1800s, where they blended with local traditions into the holiday we know. Trick-or-treating became widespread in the twentieth century.",
+      "example": "The name itself records the history: Hallowe'en is a contraction of All Hallows' Even, with hallow meaning saint. When kids knock on doors tonight, they're echoing a practice Scottish and Irish children called guising.",
+      "takeaway": "Halloween is a Celtic seasonal festival wearing a Christian name."
     },
     {
       "id": "2026-10-31-2",
-      "topic": "running",
-      "icon": "timer",
-      "title": "Strides: 20 seconds to faster legs",
-      "body": "Strides are short, smooth accelerations, usually 15 to 25 seconds, done after an easy run. You build from a jog to roughly mile race pace, hold it briefly, then ease off. Fast, but never a flat-out sprint or a strain.\n\nWhy bother? Easy running builds the engine but does little for leg speed and coordination. Strides train your nervous system to fire muscles quickly and efficiently, reinforce good form at speed, and make faster paces feel familiar, all with almost no added fatigue because the reps are short and recovery is full.\n\nMany coaches prescribe 4 to 6 strides, two or three times a week. Do them on flat ground or a gentle downhill, keep your face and shoulders relaxed, and walk or jog back until fully recovered.",
-      "example": "After your next easy run, find a flat 100 m stretch. Do 6 × 20 seconds, building to fast-but-relaxed, and walk back to the start for 60 to 90 seconds between each. Total extra time: about 10 minutes.",
-      "takeaway": "Short, relaxed bursts after easy runs teach your legs to move fast."
+      "topic": "investing",
+      "title": "Enterprise value: the price of the whole business",
+      "body": "Market capitalization tells you what the equity costs, but if you bought an entire company you'd also inherit its debt and pocket its cash. Enterprise value (EV) captures that full takeover price: market cap plus debt, preferred shares and minority interests, minus cash and equivalents.\n\nThis matters because two companies with the same market cap can be wildly different bargains. One carrying heavy debt is effectively more expensive; one sitting on a pile of cash is cheaper than it looks.\n\nEV pairs with measures that belong to all capital providers, like revenue, EBITDA or operating income, because those profits are earned before lenders are paid. Equity value pairs with measures that belong only to shareholders, like net income. Mixing them, such as dividing EV by net income, is a classic interview mistake.",
+      "example": "Companies A and B both have $10B market caps. A has $4B of debt and $1B of cash, so EV = $13B. B has no debt and $3B of cash, so EV = $7B. If both earn $1B of EBITDA, A trades at 13x EV/EBITDA and B at 7x, despite identical market caps.",
+      "takeaway": "EV is what you'd pay for the whole company: equity plus debt, minus cash."
     },
     {
       "id": "2026-10-31-3",
-      "topic": "recipe",
-      "icon": "bowl",
-      "title": "Pumpkin, Lentil & Black Bean Chili",
-      "body": "A Halloween-season chili that tastes like fall and packs real protein. Sauté a diced onion, a red pepper and 3 garlic cloves in oil. Add 2 tbsp chili powder, 2 tsp cumin, 1 tsp smoked paprika and a pinch of cinnamon, and toast for a minute.\n\nStir in 1 cup of dry red lentils, 1 cup of dry textured vegetable protein (TVP), two drained cans of black beans, a 398 mL can of pumpkin purée, a 796 mL can of crushed tomatoes and 4 cups of vegetable broth. Simmer about 25 minutes, stirring often, until the lentils collapse and it thickens.\n\nFinish with lime juice and salt. Top with Greek yogurt, cheddar, cilantro and toasted pumpkin seeds. It freezes perfectly, so make the full batch.",
-      "example": "Makes 4 big servings at about 35 g protein each, mostly from the lentils, TVP and beans. A dollop of Greek yogurt adds roughly 5 g more. TVP is cheap and sold at bulk food stores and many grocery stores.",
-      "takeaway": "Lentils plus TVP turn a pot of chili into high-protein meal prep."
+      "topic": "geography",
+      "title": "Point Nemo: the loneliest spot in the ocean",
+      "body": "Somewhere in the South Pacific lies the point in the ocean farthest from any land. It's called Point Nemo, after Jules Verne's submarine captain, and it was pinpointed in 1992 by survey engineer Hrvoje Lukatela using computer modelling.\n\nThe nearest land, a trio of tiny islands, is roughly 2,700 kilometres away in each direction. The area is also remarkably empty of life: it sits inside a vast ocean gyre where the water carries few nutrients, so little grows near the surface.\n\nIts remoteness makes it useful. Space agencies steer old satellites and spacecraft to crash into the sea around it, turning it into a spacecraft graveyard; Russia's Mir space station came down in this region in 2001. And because the International Space Station orbits roughly 400 kilometres up, astronauts passing overhead can be the closest humans to anyone at Point Nemo.",
+      "example": "Open a map and zoom out over the South Pacific between New Zealand and Chile. The nearest land to Point Nemo is Ducie Island in the Pitcairn group, Motu Nui near Easter Island, and Maher Island off Antarctica.",
+      "takeaway": "Point Nemo is so remote that the nearest people are often in orbit."
     },
     {
       "id": "2026-10-31-4",
       "topic": "music",
-      "title": "Radiohead: In Rainbows",
-      "body": "In October 2007, Radiohead released In Rainbows as a download and let fans pay whatever they wanted, including nothing. Announced only days before release, it became a landmark experiment in music pricing. The album itself is the band's warmest and most human record: less icy than Kid A, with more groove and more heart.\n\nThe interlocking guitars are the thing to listen for. Jonny Greenwood, Ed O'Brien and Thom Yorke often play separate arpeggiated patterns that lock together into one shimmering texture, while Phil Selway's drums push everything forward.\n\nStart with Weird Fishes/Arpeggi, then Reckoner and Nude. If you play guitar, try picking out one of the arpeggio lines in Weird Fishes; it's a great right-hand exercise.",
-      "example": "Listen to Weird Fishes/Arpeggi three times: once following only the drums, once the guitars, once the vocals. Each guitar part repeats a simple pattern, yet together they sound like one complex instrument.",
-      "takeaway": "Simple parts that interlock can sound richer than any solo."
+      "title": "Fleetwood Mac: Rumours",
+      "body": "Few albums were made under stranger conditions. In 1976, as Fleetwood Mac recorded Rumours, Lindsey Buckingham and Stevie Nicks were breaking up, John and Christine McVie were divorcing, and Mick Fleetwood's marriage was falling apart. The band wrote songs about each other and then had to sing them together.\n\nThe result, released in 1977, is a polished soft-rock record full of tension: bright harmonies on top, heartbreak underneath. It became one of the best-selling albums of all time.\n\nListen for how each songwriter has a distinct voice. Buckingham's songs are sharp and nervy, Nicks's are mystical, and Christine McVie's are warm and hopeful. Start with Dreams, then Go Your Own Way, then The Chain, the only song credited to all five members, stitched together from separate pieces.",
+      "example": "Put on The Chain and wait for John McVie's bass line near the three-minute mark, when everything drops out and the song builds into its famous final section. Then play Dreams and notice how little the band actually plays behind Nicks's voice.",
+      "takeaway": "Rumours turned a band's breakups into one of rock's most loved albums."
     },
     {
       "id": "2026-10-31-5",
-      "topic": "chess",
-      "title": "The knight fork: chess's sneakiest weapon",
-      "body": "A fork is one piece attacking two or more targets at once, so your opponent can only save one. Every piece can fork, but knights are the masters, because their L-shaped jump can't be blocked and hits squares that other pieces don't line up on.\n\nThe most valuable forks include the king: check must be answered immediately, so the other target falls next move. A fork of king and queen is the dream, sometimes called a royal fork.\n\nTo spot fork chances, look for enemy pieces standing on the same colour. A knight always attacks squares of the opposite colour to the one it's on, so two valuable pieces on light squares and your knight on a dark square nearby is a pattern worth checking.",
-      "example": "The classic: Black's king is on e8 and a rook sits on a8. A white knight lands on c7 with check, attacking both. Black must move the king, and the knight takes the rook. In the opening, always keep an eye on c7 (and c2 for Black).",
-      "takeaway": "Knights fork pieces that stand on the same colour square."
+      "topic": "language",
+      "title": "OK began as a newspaper joke in 1839",
+      "body": "OK may be the most widely used word on the planet, and it started as a gag. In the late 1830s, Boston newspaper writers had a fad for comic abbreviations of deliberately misspelled phrases. On March 23, 1839, the Boston Morning Post printed o.k. for oll korrect, a jokey spelling of all correct.\n\nMost of these jokes died quickly. OK survived thanks to politics. In the 1840 presidential election, supporters of Martin Van Buren, nicknamed Old Kinderhook after his hometown in New York, formed O.K. Clubs, which spread the letters across the country.\n\nThe origin was pinned down in the 1960s by Columbia University scholar Allen Walker Read, who debunked a long list of rival theories. It's a reminder that language often grows out of play, not planning, and that the strangest-looking words sometimes have the simplest stories.",
+      "example": "The same pattern continues today: LOL, OMG and BRB started as in-group shorthand before going mainstream. Next time you type OK, you're using a 187-year-old Boston joke.",
+      "takeaway": "OK started as oll korrect, a joke abbreviation that politics made permanent."
     },
     {
       "id": "2026-10-31-6",
-      "topic": "wildcard",
-      "title": "The first jack-o'-lanterns were turnips",
-      "body": "Long before pumpkins, people in Ireland and Scotland carved faces into turnips and other root vegetables around Samhain, the Gaelic festival marking the end of the harvest on the night of October 31. Lit with embers or candles, the lanterns were said to ward off wandering spirits.\n\nThe name connects to a folk tale about Stingy Jack, a man who tricked the Devil and was condemned to wander the earth with only a coal in a hollowed-out turnip to light his way. Jack of the lantern became jack-o'-lantern.\n\nWhen Irish and Scottish immigrants brought the tradition to North America in the 1800s, they found pumpkins: native, bigger, softer and far easier to carve. The rest is Halloween history.",
-      "example": "Search for photos of traditional Irish turnip lanterns. With their shrivelled, gaunt faces, they look far creepier than any pumpkin, which was rather the point.",
-      "takeaway": "Halloween's pumpkin is an immigrant upgrade of an old Irish turnip."
+      "topic": "mental-models",
+      "title": "Inversion: solve problems backwards",
+      "body": "The mathematician Carl Jacobi advised \"invert, always invert\", and Charlie Munger made it famous as a thinking tool. Instead of asking how to succeed, ask what would guarantee failure, and then avoid those things.\n\nInversion works because failure is often easier to see than success. It's hard to define the perfect investment process, but easy to list ways to blow up: excessive leverage, buying things you don't understand, selling in a panic. Remove those and you're already ahead of most people.\n\nA close cousin is the pre-mortem, developed by psychologist Gary Klein. Before a project starts, the team imagines it has failed spectacularly and writes down why. This gives people permission to voice doubts they'd otherwise keep quiet, and surfaces risks while there's still time to address them.",
+      "example": "Planning to run a half marathon in the spring? Invert: how would you guarantee not finishing? Ramp mileage too fast, skimp on sleep, never practise fuelling, start too quickly. Your training plan is now mostly a list of those things to avoid.",
+      "takeaway": "To find the path to success, first map the ways to fail."
     }
   ],
   "quiz": [
     {
-      "question": "A company has an $800M market cap, $300M of debt, $100M of cash and $100M of EBITDA. What is its EV/EBITDA?",
-      "options": ["8.0x", "11.0x", "10.0x", "9.0x"],
-      "answer": 2,
-      "explanation": "EV = 800 + 300 − 100 = $1,000M, and 1,000 / 100 = 10.0x."
-    },
-    {
-      "question": "What is the main purpose of strides?",
-      "options": ["Building aerobic base", "Improving leg speed and form with little added fatigue", "Burning extra calories", "Replacing a weekly interval session"],
+      "question": "Why was October 31 called All Hallows' Eve?",
+      "options": ["It was the night of the harvest auction", "It was the evening before All Saints' Day on November 1", "It marked the first frost in Scotland", "It honoured a saint named Hallow"],
       "answer": 1,
-      "explanation": "Strides are short, fully recovered efforts that train the nervous system and form at speed."
+      "explanation": "November 1 was All Saints', or All Hallows', Day, so the night before was All Hallows' Eve, shortened to Halloween.",
+      "review": false
     },
     {
-      "question": "Besides beans, which two ingredients supply most of the protein in the pumpkin chili?",
-      "options": ["Red lentils and TVP", "Pumpkin and tomatoes", "Cheddar and pumpkin seeds", "Vegetable broth and onions"],
-      "answer": 0,
-      "explanation": "One cup each of dry red lentils and TVP adds roughly 90 g of protein to the pot."
-    },
-    {
-      "question": "What was unusual about the 2007 release of In Rainbows?",
-      "options": ["It was released only on vinyl", "It had no guitars", "It was released one song per month", "Fans could pay whatever they wanted for the download"],
+      "question": "Company X has a $5B market cap, $3B of debt and $1B of cash. What is its enterprise value?",
+      "options": ["$5B", "$9B", "$8B", "$7B"],
       "answer": 3,
-      "explanation": "Radiohead let fans name their own price, including zero, a landmark pricing experiment."
+      "explanation": "EV = market cap + debt − cash = $5B + $3B − $1B = $7B.",
+      "review": false
     },
     {
-      "question": "Why should you look for enemy pieces on the same colour when hunting knight forks?",
-      "options": ["Knights can only move on light squares", "Pieces on the same colour are always undefended", "A knight's targets are always all on the colour opposite the square it stands on", "Bishops can't defend pieces on the same colour"],
+      "question": "What makes Point Nemo notable?",
+      "options": ["It is the point in the ocean farthest from any land", "It is the deepest point in the ocean", "It is where the Pacific and Atlantic meet", "It is the windiest place on Earth"],
+      "answer": 0,
+      "explanation": "Point Nemo is about 2,700 km from the nearest land in every direction, which is why spacecraft are crashed there.",
+      "review": false
+    },
+    {
+      "question": "What was unusual about the making of Rumours?",
+      "options": ["It was recorded live in a single take", "It was the band's debut album", "Band members were breaking up with each other while recording it", "It was recorded without any guitars"],
       "answer": 2,
-      "explanation": "A knight always jumps to the opposite colour, so every square it attacks shares one colour."
+      "explanation": "Two couples in the band were splitting up, and they wrote and sang songs about each other.",
+      "review": false
     },
     {
-      "question": "Before pumpkins, what were jack-o'-lanterns carved from in Ireland and Scotland?",
-      "options": ["Gourds", "Turnips and other root vegetables", "Apples", "Wooden blocks"],
+      "question": "How did OK spread beyond a Boston newspaper joke?",
+      "options": ["Telegraph operators adopted it as an official code", "Supporters of Martin Van Buren, 'Old Kinderhook', formed O.K. Clubs in 1840", "It came from a word used by soldiers in the War of 1812", "It was printed on early bank notes"],
       "answer": 1,
-      "explanation": "Turnips and similar roots were carved around Samhain; immigrants switched to pumpkins in North America."
+      "explanation": "The 1840 election campaign gave the joke abbreviation a second meaning and spread it nationwide.",
+      "review": false
+    },
+    {
+      "question": "Which of these is an example of inversion?",
+      "options": ["Copying the habits of the most successful person you know", "Setting a bigger goal to motivate yourself", "Averaging several forecasts", "Listing what would guarantee a project fails, then avoiding those things"],
+      "answer": 3,
+      "explanation": "Inversion flips the question from 'how do I succeed?' to 'what would make me fail?'",
+      "review": false
     }
   ]
 }

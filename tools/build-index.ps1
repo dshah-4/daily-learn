@@ -4,8 +4,16 @@
 $ErrorActionPreference = 'Stop'
 $root = Split-Path -Parent $PSScriptRoot
 $contentDir = Join-Path $root 'content'
-$topics = 'investing','economics','canadian-finance','running','weightlifting','recipe','music','guitar','philosophy','book','chess','wildcard'
-$icons = 'chart','globe','maple','shoe','barbell','leaf','headphones','pick','column','book','knight','spark','coin','house','scale','note','target','bowl','timer','brain'
+$interests = 'investing','economics','canadian-finance','running','weightlifting','recipe','music','guitar','philosophy','book','chess'
+$broad = 'psychology','history','science','health','nutrition','technology','art-design','literature','geography','language','productivity','relationships','thinkers','mental-models','business','wildcard'
+$topics = $interests + $broad
+$icons = 'chart','globe','maple','shoe','barbell','leaf','headphones','pick','column','book','knight','spark','coin','house','scale','note','target','bowl','timer','brain',
+  'hourglass','flask','heart','apple','chip','palette','quill','compass','speech','people','bulb','briefcase'
+# Card body length. If FEEDBACK.md changes the target length, update these and CONTENT_GUIDE.md together.
+$minWords = 100
+$maxWords = 150
+# Variety rules apply from the day the broad-pool approach started.
+$varietyFrom = '2026-10-30'
 
 $errors = @()
 $warnings = @()
@@ -35,7 +43,7 @@ foreach ($f in $files) {
     $seenTopics[$c.topic] = $true
     if ($c.icon -and $icons -notcontains $c.icon) { $errors += "${where}: unknown icon '$($c.icon)'" }
     $words = @($c.body -split '\s+' | Where-Object { $_ }).Count
-    if ($words -lt 100 -or $words -gt 150) { $warnings += "${where}: body is $words words (target 100-150)" }
+    if ($words -lt $minWords -or $words -gt $maxWords) { $warnings += "${where}: body is $words words (target $minWords-$maxWords)" }
   }
 
   $q = 0
@@ -57,6 +65,23 @@ foreach ($f in $files) {
   foreach ($x in $d.quiz) {
     if ($x.reviewOf -and -not $ids.ContainsKey($x.reviewOf)) { $errors += "$($f.BaseName): reviewOf '$($x.reviewOf)' not found" }
     if ($x.reviewOf -and $x.reviewOf -ge $f.BaseName) { $errors += "$($f.BaseName): reviewOf '$($x.reviewOf)' is not from an earlier day" }
+  }
+}
+
+# Variety: no topic on back-to-back days, no near-identical mixes within a week,
+# and interests at roughly 40% of each day (2-3 of 6 cards).
+for ($a = 0; $a -lt $days.Count; $a++) {
+  $da = $days[$a]
+  if ($da.date -lt $varietyFrom) { continue }
+  $n = @($da.topics | Where-Object { $interests -contains $_ }).Count
+  if ($n -lt 2 -or $n -gt 3) { $warnings += "$($da.date): $n interest cards (target 2-3)" }
+  for ($b = [Math]::Max(0, $a - 6); $b -lt $a; $b++) {
+    $db = $days[$b]
+    $gap = ([datetime]$da.date - [datetime]$db.date).Days
+    if ($gap -gt 6) { continue }
+    $shared = @($da.topics | Where-Object { $db.topics -contains $_ })
+    if ($gap -eq 1 -and $shared.Count) { $warnings += "$($da.date): repeats $($shared -join ', ') from the day before" }
+    elseif ($shared.Count -ge 4) { $warnings += "$($da.date): shares $($shared.Count) topics with $($db.date) (max 3 within a week)" }
   }
 }
 

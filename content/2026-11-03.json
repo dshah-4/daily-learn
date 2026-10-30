@@ -3,91 +3,95 @@
   "cards": [
     {
       "id": "2026-11-03-1",
-      "topic": "investing",
-      "title": "WACC: the hurdle every investment must clear",
-      "body": "A company's weighted average cost of capital is the blended return its investors require: what shareholders and lenders each expect, weighted by how much of the capital they provide. It's the discount rate in a DCF and the bar new projects must clear to create value.\n\nThe formula is WACC = E/V × cost of equity + D/V × cost of debt × (1 − tax rate). Debt is cheaper for two reasons: lenders get paid first, and interest is tax-deductible. The cost of equity is usually estimated with CAPM: the risk-free rate plus beta times the equity risk premium.\n\nThe insight that matters on the buy side: growth only creates value when return on invested capital exceeds WACC. Growth below WACC destroys value, however exciting it looks.",
-      "example": "Capital is 70% equity at 9% and 30% debt at 5%, with Ontario's 26.5% combined corporate tax rate. WACC = 0.7 × 9% + 0.3 × 5% × (1 − 0.265) = 6.3% + 1.1% ≈ 7.4%.",
-      "takeaway": "Growth creates value only when returns on capital beat WACC."
+      "topic": "history",
+      "title": "The Great Stink that gave London its sewers",
+      "body": "In the summer of 1858, hot weather turned the River Thames into an open sewer. For years, London's waste had poured straight into the river, the same river much of the city drew drinking water from. The stench reached the Houses of Parliament on the riverbank, where curtains were reportedly soaked in chemicals to mask it.\n\nWith politicians unable to ignore the problem, Parliament quickly backed a plan by the engineer Joseph Bazalgette. Over the following years his team built a vast network of intercepting sewers that carried waste east, away from central London.\n\nThe system also helped end the cholera outbreaks that had killed tens of thousands of Londoners. Many people still blamed bad air for the disease, but the physician John Snow had already linked cholera to contaminated water in 1854.",
+      "example": "Bazalgette is said to have made his pipes far wider than his calculations required, reasoning that the city would only get one chance to build them. Parts of his network still carry London's sewage today, and the Victoria Embankment along the Thames was built partly to house it.",
+      "takeaway": "Crisis made the case: the Great Stink turned a known problem into action."
     },
     {
       "id": "2026-11-03-2",
       "topic": "weightlifting",
-      "title": "Protein: how much actually builds muscle",
-      "body": "For lifters, the best-supported target is around 1.6 grams of protein per kilogram of body weight per day. A widely cited 2018 meta-analysis found that extra muscle gains from protein plateaued around that intake on average, with some people benefiting from up to about 2.2 g/kg.\n\nSpreading it over three to five meals of roughly 0.3 to 0.4 g/kg each tends to work better than one giant serving. For vegetarians, quality matters a bit more: many plant proteins contain less leucine, the amino acid that most strongly switches on muscle building, so eat slightly larger portions and combine sources like soy, legumes, grains, eggs and dairy.\n\nTotal daily intake matters most. Timing is a refinement, not a requirement.",
-      "example": "At 75 kg, aim for about 120 g a day. That could be 40 g overnight oats at breakfast, a 35 g tofu bowl at lunch, a 30 g lentil dinner and a 20 g Greek yogurt snack.",
-      "takeaway": "Hit about 1.6 g/kg a day, spread over a few meals."
+      "title": "The Romanian deadlift: hinge, don't squat",
+      "body": "The Romanian deadlift (RDL) is one of the best exercises for the hamstrings and glutes, and it teaches the hip hinge, the movement behind deadlifts, kettlebell swings and safely lifting anything off the floor.\n\nStart standing tall, holding a barbell or dumbbells at your thighs. With a soft bend in your knees, push your hips straight back, as if closing a car door behind you with your backside. Keep the bar close, sliding it down your thighs, and keep your back flat. Lower until you feel a strong stretch in your hamstrings, usually somewhere around mid-shin, then drive your hips forward to stand.\n\nThe most common mistake is turning it into a squat by bending the knees too much. In an RDL, the knees stay mostly fixed and the hips do the moving.",
+      "example": "This week, add RDLs after squats: 3 sets of 8 to 10 reps with a weight that leaves two reps in reserve. Film one set from the side; your shins should stay nearly vertical and the bar should stay close to your legs the whole way.",
+      "takeaway": "In an RDL, the hips move back and forward; the knees barely change."
     },
     {
       "id": "2026-11-03-3",
       "topic": "canadian-finance",
-      "icon": "house",
-      "title": "The FHSA: the best tax deal for a first home",
-      "body": "Launched in 2023, the First Home Savings Account combines the best parts of the RRSP and TFSA. Contributions are tax-deductible like an RRSP, and qualifying withdrawals to buy a first home are tax-free like a TFSA. Few accounts give you both.\n\nYou can contribute $8,000 a year, up to $40,000 lifetime. Unused room carries forward, but only up to $8,000, so the most you can add in one year is $16,000. Crucially, room only starts building once you open the account, which makes opening one early, even empty, a smart move.\n\nIf you never buy a home, the balance can move to your RRSP without using RRSP room. And you don't have to claim the deduction right away; you can save it for a higher-income year.",
-      "example": "Open an FHSA in 2026, even with nothing in it, and you get $8,000 of room for 2026. Contribute nothing, and in 2027 you'd have $16,000 available. Wait until 2027 to open it and you'd have only $8,000.",
-      "takeaway": "Open an FHSA early: room only starts accruing once the account exists."
+      "title": "TFSA withdrawals: why timing matters",
+      "body": "The TFSA's flexibility is one of its best features: you can withdraw money at any time, tax-free, for any reason. But one rule catches many people. The amount you withdraw is added back to your contribution room only on January 1 of the following year, not immediately.\n\nIf you withdraw and then re-contribute in the same calendar year without enough unused room, the extra counts as an overcontribution. The CRA charges a tax of 1% per month on the highest excess amount in each month until it's removed.\n\nSo think of a withdrawal as returning room next year. And if you want to move your TFSA from one institution to another, don't withdraw and redeposit; ask the new institution for a direct transfer, which doesn't affect your room at all.",
+      "example": "You've used all your room. In March you withdraw $3,000 for a trip, then in June you put the $3,000 back. That's an overcontribution until January 1, costing about $30 for each month it stays in from June to December, roughly $210. Waiting until January would have cost nothing.",
+      "takeaway": "TFSA withdrawals come back as room next January, not right away."
     },
     {
       "id": "2026-11-03-4",
-      "topic": "philosophy",
-      "title": "Hume's guillotine: you can't get ought from is",
-      "body": "In 1739, David Hume noticed a sleight of hand in moral arguments. Writers would describe how things are, page after page, then suddenly shift to how things ought to be, without explaining how one followed from the other.\n\nHis point, now called the is-ought problem or Hume's guillotine, is that facts alone never logically produce a value judgment. To reach a conclusion about what should happen, you need at least one premise about what matters: fairness, welfare, liberty, growth.\n\nThis is a powerful tool in economics and policy debates, where empirical findings are often presented as if they settled moral questions. When someone argues from data to a prescription, look for the hidden value premise. Often the real disagreement lives there, not in the numbers.",
-      "example": "A study finds a carbon tax cuts emissions at a modest cost to GDP. That's an is. Concluding that governments should adopt one requires an ought, such as we should cut emissions when the cost is low. Debate the premise, not just the study.",
-      "takeaway": "Facts alone never prove what should be done; find the hidden value premise."
+      "topic": "nutrition",
+      "title": "Fibre: the nutrient most people quietly miss",
+      "body": "Protein gets all the attention, but fibre is the nutrient most adults fall short on. Health Canada's adequate intake for adults under 50 is 38 grams a day for men and 25 for women, and typical diets land well below that.\n\nFibre is the part of plant foods your body can't digest. Soluble fibre, found in oats, beans and lentils, forms a gel that slows digestion and can help lower LDL cholesterol. Insoluble fibre, found in whole grains and vegetable skins, adds bulk and keeps digestion regular. Both feed the bacteria in your gut, which turn some fibre into compounds that help keep the gut lining healthy.\n\nA vegetarian diet makes this easier, since beans, lentils, whole grains, nuts and seeds are all fibre-rich. Increase it gradually, and drink more water as you do.",
+      "example": "A day that clears 38 g: oatmeal with raspberries and chia (about 15 g), lentil soup at lunch (about 10 g), an apple (about 4 g), and a black bean and vegetable burrito bowl at dinner (about 12 g).",
+      "takeaway": "Most people need more fibre; beans, oats and whole grains close the gap."
     },
     {
       "id": "2026-11-03-5",
       "topic": "guitar",
-      "title": "Learn the notes on the low E string",
-      "body": "Plenty of guitarists play songs for years without knowing where the notes are. Fix that one string at a time, starting with the low E, because that's where the roots of barre chords and power chords live.\n\nThe musical alphabet runs A to G, and almost every pair of neighbouring natural notes is two frets apart. The exceptions are B to C and E to F, which are only one fret apart. That's all you need. On the low E string, the natural notes fall at: E open, F 1, G 3, A 5, B 7, C 8, D 10, and E again at 12. At the 12th fret everything repeats an octave higher.\n\nSharps and flats sit in the gaps, like F sharp at fret 2. Learn the naturals first, then fill in the rest.",
-      "example": "Drill: say a random note out loud, find it on the low E as fast as you can, and play it. Two minutes a day for a week. Then play an E-shape barre chord on each one: G at 3, A at 5, C at 8.",
-      "takeaway": "Natural notes are two frets apart, except B to C and E to F."
+      "title": "The F barre chord without the pain",
+      "body": "The F barre chord is where many guitarists give up, but it depends more on technique than strength. The shape is an open E major chord moved up one fret, with your index finger laid across all six strings at the first fret, acting as a new nut.\n\nThree adjustments make it work. Roll your index finger slightly onto its bony outer edge, which presses more evenly than the soft underside. Keep the barre right behind the fret wire, not in the middle of the fret. And instead of squeezing with your thumb, let the weight of your arm pull the neck gently back toward you.\n\nPick each string one at a time to find the dead ones, and adjust. Expect a week or two of buzzing; that's normal. Once it rings, sliding the shape up the neck gives you every major chord.",
+      "example": "Practise for five minutes a day: form the F barre at the first fret, strum, release, and repeat 20 times. If the first fret is too tough, start the same shape at the fifth fret, which is A major and needs less pressure, then work your way down.",
+      "takeaway": "A barre chord is technique, not grip strength: roll, place, use arm weight."
     },
     {
       "id": "2026-11-03-6",
-      "topic": "wildcard",
-      "icon": "timer",
-      "title": "The Lindy effect: old ideas tend to last",
-      "body": "For things that don't age biologically, like books, ideas, technologies and institutions, every year of survival tends to predict more years ahead. That's the Lindy effect, named after Lindy's deli in New York, where comedians in the 1960s joked that a show's future run was proportional to how long it had already lasted.\n\nNassim Taleb popularized the idea in Antifragile. A book that has stayed in print for 100 years has passed a century of filtering; last month's bestseller hasn't been tested at all. The same logic applies to investing principles, training methods and recipes.\n\nIt isn't a law, just a useful prior when you face too many options and too little information about which ones will matter.",
-      "example": "Choosing what to read this year? Pair every new release with something that's been in print for at least 50 years. Marcus Aurelius has been read for nearly 2,000 years; that's a strong signal.",
-      "takeaway": "If something has lasted a long time, expect it to keep lasting."
+      "topic": "productivity",
+      "title": "Parkinson's law: work expands to fill the time",
+      "body": "In 1955, the historian C. Northcote Parkinson published a satirical essay in The Economist that opened with a line that has stuck ever since: work expands so as to fill the time available for its completion. Give yourself a week for a task that needs two hours, and it will somehow take the week.\n\nHe was mocking bloated bureaucracies, but the idea fits personal work too. Long deadlines invite procrastination, perfectionism and scope creep, while tight ones force you to decide what actually matters.\n\nThe practical fix is to set your own shorter deadlines. Timebox tasks: decide in advance that you'll spend 45 minutes on a problem set or a first draft, set a timer, and stop when it rings. You'll often find the work fits, and the parts you skipped weren't essential.",
+      "example": "You have a case study due in five days. Instead of letting it hover all week, block two 90-minute sessions for tomorrow and the day after, aiming for a complete draft by the end of the second. Use the remaining days only for revisions.",
+      "takeaway": "Shrink the time you allow, and the work usually shrinks with it."
     }
   ],
   "quiz": [
     {
-      "question": "Why is debt usually cheaper than equity in a WACC calculation?",
-      "options": ["Banks are required to lend at low rates", "Debt never has to be repaid", "Equity holders receive dividends first", "Lenders are paid first and interest is tax-deductible"],
-      "answer": 3,
-      "explanation": "Lower risk for lenders plus the interest tax shield make after-tax debt cheaper than equity."
-    },
-    {
-      "question": "Roughly how much protein per day should a 70 kg lifter aim for?",
-      "options": ["About 70 g", "About 112 g", "About 200 g", "About 50 g"],
-      "answer": 1,
-      "explanation": "1.6 g/kg × 70 kg = 112 g per day."
-    },
-    {
-      "question": "Which statement about the FHSA is true?",
-      "options": ["Contribution room only starts building once you open the account", "Withdrawals for a first home are taxed as income", "You can contribute $40,000 in a single year", "Contributions are not tax-deductible"],
-      "answer": 0,
-      "explanation": "Unlike the TFSA, FHSA room doesn't accrue from age 18; it starts the year you open the account."
-    },
-    {
-      "question": "Someone says: unemployment fell after the policy, so we must expand it. What would Hume point out?",
-      "options": ["The data must be wrong", "Correlation always proves causation", "A value premise is needed to get from the fact to the prescription", "Policy debates can't use data"],
+      "question": "What finally pushed Parliament to back London's modern sewer system?",
+      "options": ["A royal decree from Queen Victoria", "A fire that destroyed the old drains", "The Great Stink of 1858 reaching Parliament itself", "A loan from the Bank of England"],
       "answer": 2,
-      "explanation": "Even if the fact is true, should-claims need a premise about what we value, like lower unemployment being worth the cost."
+      "explanation": "When the stench of the Thames reached the Houses of Parliament, politicians quickly backed Bazalgette's sewer plan.",
+      "review": false
     },
     {
-      "question": "On the low E string, which fret is C?",
-      "options": ["7", "10", "5", "8"],
+      "question": "What's the most common mistake in the Romanian deadlift?",
+      "options": ["Bending the knees too much and turning it into a squat", "Keeping the bar too close to the legs", "Pushing the hips back", "Keeping the back flat"],
+      "answer": 0,
+      "explanation": "The RDL is a hinge: the hips travel back and forward while the knees stay mostly fixed.",
+      "review": false
+    },
+    {
+      "question": "You withdraw $5,000 from your TFSA in April. When is that $5,000 of room restored?",
+      "options": ["Immediately", "After 30 days", "On your next birthday", "On January 1 of the following year"],
       "answer": 3,
-      "explanation": "B is at fret 7, and B to C is just one fret, so C is at fret 8."
+      "explanation": "Withdrawals are added back to your contribution room at the start of the next calendar year.",
+      "review": false
     },
     {
-      "question": "According to the Lindy effect, which is likely to remain in print longer?",
-      "options": ["This month's bestseller", "A book in print for 80 years", "Both equally", "Whichever has better reviews"],
+      "question": "Which type of fibre forms a gel and can help lower LDL cholesterol?",
+      "options": ["Insoluble fibre from vegetable skins", "Soluble fibre from oats, beans and lentils", "Fibre added to protein powder", "There is only one type of fibre"],
       "answer": 1,
-      "explanation": "For non-perishable things, a long track record of survival predicts more survival."
+      "explanation": "Soluble fibre forms a gel in digestion, which slows it down and can help lower LDL cholesterol.",
+      "review": false
+    },
+    {
+      "question": "What's the best way to hold down a barre without excessive squeezing?",
+      "options": ["Roll onto the index finger's bony edge, place it right behind the fret, and use arm weight", "Press hard with the thumb on the back of the neck", "Place the barre in the middle of the fret", "Use the soft underside of the finger"],
+      "answer": 0,
+      "explanation": "Finger position and arm weight do the work that beginners try to do with thumb strength.",
+      "review": false
+    },
+    {
+      "question": "Given Parkinson's law, what's a practical way to finish work faster?",
+      "options": ["Wait for motivation before starting", "Give each task as much time as possible", "Set shorter, self-imposed deadlines and timebox the work", "Multitask across several projects"],
+      "answer": 2,
+      "explanation": "If work expands to fill the time available, the fix is to make less time available.",
+      "review": false
     }
   ]
 }
